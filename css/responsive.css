@@ -1,0 +1,4572 @@
+@media (max-width: 1800px) {
+  .home_mega_spach {
+    padding: 26px 80px 30px 80px;
+  }
+
+  .navbar_padding {
+    padding: 0px 100px;
+  }
+
+  .home_mega_menu {
+    justify-content: space-evenly;
+  }
+}
+
+@media (min-width:1505px) and (max-width:1799px) {
+  .founder_ceo_box {
+    padding: 169px 55px 82px 55px;
+    height: 100%;
+  }
+  .our_empowering {
+    padding: 138px 56px 60px 56px;
+    height: 100%;
+}
+}
+
+@media (min-width: 1440px) and (max-width: 1504px) {
+  .founder_ceo_box {
+    padding: 200px 55px 70px 55px;
+    margin-top: 227px;
+  }
+
+  .our_leadership_background_2 {
+    bottom: 251px;
+  }
+
+  .our_empowering {
+    margin-top: 89px;
+  }
+
+  .our_leadership_nisarg {
+    width: 45%;
+  }
+
+  .founder_text_area {
+    width: 55%;
+  }
+
+  .our_leadership_2 h3 {
+    line-height: 50.79px;
+  }
+
+  .founder_text,
+  .founder_ceo_img {
+    width: 50%;
+  }
+
+  .discovery_box {
+    padding: 48px 100px 80px;
+  }
+
+  .api_box {
+    padding: 48px 100px 80px 110px;
+  }
+
+  .wireless_box {
+    padding: 48px 100px 80px 110px;
+  }
+
+  .wireless_three_box::after {
+    left: 17%;
+    bottom: -66%;
+  }
+
+  .api_fore_box::after {
+    left: 27%;
+  }
+
+  .wireless_first_box::before {
+    left: 25%;
+    top: 85%;
+  }
+
+  .wireless_second_box::before {
+    width: 49%;
+    left: 27%;
+    bottom: -61%;
+  }
+
+  .technical_web_second_box::before {
+    left: 24%;
+    top: 57%;
+  }
+}
+
+@media (min-width: 1441px) {
+  .custom-col-5 {
+    flex: 0 0 auto;
+    width: 41.66667%;
+    padding-left: 0;
+    padding-right: calc(var(--bs-gutter-x) / 2) !important;
+  }
+
+  .custom-col-7 {
+    flex: 0 0 auto;
+    width: 58.33333%;
+    padding-right: 0;
+    padding-left: calc(var(--bs-gutter-x) / 2) !important;
+  }
+}
+
+@media (max-width: 1440px) {
+  .slider_outer:after {
+    max-width: 1390px;
+  }
+
+  .contact_us_form {
+    margin-top: 150px !important;
+  }
+
+  .compliance_dashad_line_three::after {
+    top: 19.8%;
+    left: 12px;
+  }
+
+  .iso_1_dashad_line::after {
+    right: -16px;
+  }
+
+  .iso_1_dashad_line::before {
+    top: -1.5%;
+    right: -16px;
+  }
+
+  .compliance_iso_first_box::before {
+    left: 25%;
+    top: 65%;
+  }
+
+  .technical_penetraton_dashad_line::before,
+  .technical_penetraton_dashad_line::after {
+    top: 10%;
+  }
+
+  .api_five_box::before {
+    left: 25%;
+    top: 67%;
+  }
+
+  .api_three_box::after {
+    left: 27%;
+  }
+  .technical_red_second_box::before {
+    left: 28%;
+    top: 50%;
+}
+  .expertise_right {
+    right: -50%;
+  }
+
+  .carousel-1_desktop {
+    max-height: 700px;
+  }
+
+  .slide_title {
+    /*font-size: 50px;*/
+  }
+
+  .brief_bg {
+    right: 0%;
+  }
+
+  .discovery_box,
+  .it_general_box,
+  .compliance_cyber_box {
+    padding: 48px 100px 80px;
+  }
+
+  .other_service_box {
+    padding: 48px 115px 80px;
+  }
+
+  .other_pluse_left {
+    left: 11%;
+    top: 17%;
+  }
+
+  .Vulnerability_text {
+    margin-left: 0px;
+  }
+
+  .home_mega_spach {
+    padding: 26px 15px 30px 15px;
+  }
+
+  .it_general_first_box {
+    padding: 0 0 90px 0;
+  }
+
+  .it_general_second_box {
+    padding: 0px 0 120px 0;
+  }
+
+  .it_general_first_box::before {
+    left: 27%;
+  }
+
+  .it_general_three_box::after,
+  .it_general_five_box::before {
+    left: 27%;
+  }
+
+  .it_general_fore_box::after {
+    left: 28%;
+  }
+
+  .compliance_cyber_first_box {
+    padding: 0 0 150px 0;
+  }
+
+  .compliance_cyber_first_box::before {
+    left: 24.5%;
+    top: 56%;
+  }
+
+  .compliance_cyber_second_box::before {
+    left: 29%;
+    top: 58%;
+  }
+
+  .compliance_cyber_second_box {
+    padding: 0px 0 150px 0;
+  }
+
+  /* .dashad_line_three::after ,.dashad_line_three::before {
+        left: 6px;
+    } */
+  .technical_web_dashad_line::before {
+    top: 11.8%;
+    right: -20px;
+  }
+
+  .technical_web_dashad_line::after {
+    top: 12%;
+    right: -20px;
+  }
+
+  .dashad_line_three::before {
+    top: -2%;
+    left: 12px;
+  }
+
+  .dashad_line_three::after {
+    left: 12px;
+  }
+
+  .dashad_line::after,
+  .dashad_line::before {
+    right: -17px;
+  }
+
+  .wireless_box {
+    padding: 48px 100px 80px 110px;
+  }
+
+  .wireless_three_box::after {
+    left: 25%;
+    bottom: -58%;
+  }
+
+  .api_fore_box::after {
+    left: 27%;
+  }
+
+  .wireless_first_box::before {
+    left: 27%;
+    top: 76%;
+  }
+
+  .wireless_second_box::before {
+    width: 49%;
+    left: 27%;
+    bottom: -56%;
+  }
+
+  .technical_web_second_box::before {
+    left: 28%;
+    top: 58%;
+  }
+
+  .founder_ceo_box {
+    margin-top: 0px;
+    padding: 64px 55px 85px 55px;
+  }
+
+  .our_leadership_3_img {
+    top: -14%;
+    left: 40%;
+  }
+
+  .our_empowering::before {
+    width: 100%;
+    height: 100%;
+  }
+
+  .our_empowering {
+    margin-top: 90px;
+  }
+
+  .our_leadership_background_2 {
+    bottom: 70px;
+    right: 75px;
+  }
+
+  .our_leadership_4_img {
+    bottom: -7%;
+    right: 55%;
+  }
+
+  .our_leadership_background {
+    top: -21px;
+    left: 38px;
+    height: 367px;
+  }
+
+  .our_leadership_2 {
+    padding: 0 20px 0 20px;
+  }
+
+  .navbar_padding {
+    padding: 0px 80px;
+  }
+
+  .flex_col_row {
+    flex-direction: column-reverse;
+  }
+
+  .contact_text_img::after {
+    right: 75%;
+    width: 26%;
+  }
+
+  .contact_text_img::before {
+    left: 81%;
+    width: 26%;
+  }
+
+  .penetration_three_box::before {
+    left: 28%;
+  }
+
+  .compliance_three_box::after {
+    left: 25%;
+    bottom: -63%;
+  }
+
+  .compliance_soc_second_box::before {
+    left: 26.5%;
+    top: 64%;
+  }
+
+  .compliance_soc_first_box::before {
+    left: 28.5%;
+  }
+
+  .compliance_soc_three_box::before {
+    top: 66%;
+  }
+
+  .compliance_hittrust_first_box::before {
+    left: 27.5%;
+    top: 68%;
+  }
+
+  .compliance_hippa_first_box::before {
+    left: 28.5%;
+  }
+}
+
+@media (max-width: 1200px) {
+  .other_service_box {
+    padding: 48px 100px 80px;
+  }
+
+  .member_team_name {
+    font-size: 20px;
+  }
+
+  /* .service-content {
+    min-height: 290px;
+} */
+  .our-expertise-content-outer:nth-child(2) .promo-title .left-line:after {
+    width: 30px;
+    left: -24px;
+  }
+  .other_data_first_box::before {
+    left: 11%;
+    top: 59%;
+}
+  .our-expertise-content-outer:nth-child(2) h4.promo-title:before {
+    left: -48px;
+  }
+  .other_staff_first_box::before {
+    left: 16%;
+}
+.other_phising_first_box::before {
+  left: 7.5%;
+}
+.other_phising_second_box::before {
+  left: 31.5%;
+}
+.other_phising_three_box::before {
+  left: 7.5%;
+  top: 57%;
+}
+.other_deep_first_box::before {
+  left: 14%;
+  top: 73%;
+}
+.other_deep_second_box::before {
+  left: 18%;
+  top: 58%;
+}
+  .contact_us_location {
+    padding-left: 30px;
+  }
+  .other_services_24x7_first_box {
+    padding: 0 0 145px 0;
+}
+.other_services_24x7_first_box::before {
+  left: 15.5%;
+}
+.other_services_24x7_second_box::after {
+  left: 30%;
+  bottom: -61%;
+}
+.other_services_24x7_second_box {
+  padding: 0 0 134px 0;
+}
+.other_services_24x7_three_box::before {
+  left: 16%;
+  top: 60%;
+}
+.other_ot_iot_first_box::before {
+  left: 6%;
+  top: 60%;
+}
+.other_ot_iot_second_box::before {
+  left: 31%;
+}
+.other_ot_iot_first_box,.other_ot_iot_second_box  {
+  padding: 0 0 160px 0;
+}
+.other_ot_iot_pluse_img {
+  bottom: 4%;
+  left: 8%;
+}
+.other_social_media_first_box::before {
+  left: 16%;
+  top: 65%;
+}
+.other_social_media_second_box::before {
+  left: 21.5%;
+  top: 58%;
+}
+.other_social_media_pluse_img {
+  bottom: 3%;
+  left: 4%;
+}
+.wireless_fore_box::after {
+  width: 69%;
+  left: 31%;
+  bottom: -73%;
+}
+  .our-proprietary .row+.row>div:nth-child(3) .our-proprietary-box {
+    padding: 20px 20px 20px 27px;
+  }
+
+  .our-proprietary-icon span {
+    width: 40px;
+    height: 40px;
+    font-size: 23px;
+    line-height: 45px;
+  }
+
+  .our-proprietary-icon {
+    border: 3px solid #50B84D;
+    padding: 5px;
+    right: 60px;
+    bottom: -43px;
+  }
+
+  .our-proprietary .row:nth-child(1)>div:nth-child(2) .our-proprietary-icon {
+    left: 60px;
+  }
+
+  .our-proprietary .row+.row>div:first-child .our-proprietary-icon {
+    right: -29px;
+  }
+
+  .our-proprietary-img-inner:before {
+    left: -75px;
+  }
+
+  .our-proprietary .row+.row>div:nth-child(3) .our-proprietary-icon {
+    left: -33px;
+  }
+
+  .our-proprietary-box {
+    padding: 20px;
+  }
+
+  .technical_review_first_box::before {
+    left: 15%;
+  }
+
+  .compliance_iso_first_box::before {
+    left: 12%;
+    width: 70%;
+  }
+
+  .compliance_iso_second_box::after {
+    width: 72%;
+    left: 13%;
+    bottom: -75%;
+  }
+
+  .wireless_first_box::before {
+    left: 3%;
+    top: 78%;
+    width: 70%;
+  }
+
+  .technical_penetraion_first_box::before {
+    left: 20.5%;
+    top: 66%;
+  }
+
+  .technical_penetration_second_box::before {
+    left: 22.5%;
+    top: 64%;
+  }
+
+  .penetration_three_box::before {
+    left: 19%;
+  }
+
+  .compliance_soc_first_box::before {
+    left: 13.5%;
+    top: 74%;
+  }
+
+  .compliance_soc_second_box::before {
+    left: 19.5%;
+    top: 70%;
+  }
+
+  .compliance_soc_three_box::before {
+    left: 18.5%;
+    top: 68%;
+  }
+
+  .compliance_hittrust_first_box::before {
+    left: 16.5%;
+    top: 72%;
+  }
+
+  .compliance_hittrust_second_box::before {
+    left: 21.5%;
+    top: 67%;
+  }
+
+  .compliance_hittrust_three_box::before {
+    left: 19.5%;
+    top: 72%;
+  }
+
+  .compliance_hippa_first_box::before {
+    left: 14.5%;
+  }
+
+  .compliance_hippa_three_box::before {
+    left: 14%;
+    top: 71%;
+  }
+
+  .compliance_iso_2_first_box::before {
+    left: 15.5%;
+  }
+
+  .compliance_iso_4_three_box::before {
+    left: 14%;
+  }
+
+  .it_general_first_box::before {
+    width: 80%;
+    left: 4%;
+  }
+
+  .it_general_second_box::after {
+    width: 80%;
+    left: 14%;
+    bottom: -62%;
+  }
+
+  .it_general_three_box::after {
+    width: 80%;
+    left: 9%;
+    bottom: -67%;
+  }
+
+  .it_general_three_box,
+  .it_general_fore_box {
+    padding: 0 0 120px 0;
+  }
+
+  .it_general_fore_box::after {
+    width: 80%;
+    left: 12%;
+    bottom: -62%;
+  }
+
+  .it_general_five_box::before {
+    width: 80%;
+    left: 12%;
+  }
+
+  .compliance_cyber_first_box::before {
+    left: 13.5%;
+    top: 61%;
+  }
+
+  .compliance_cyber_second_box::before {
+    left: 22%;
+    top: 64%;
+  }
+
+  .compliance_three_box::after {
+    width: 70%;
+    left: 15%;
+    bottom: -68%;
+  }
+
+  .compliance_fore_box::after {
+    width: 71%;
+    left: 16%;
+    bottom: -76%;
+  }
+
+  .compliance_iso_first_box::before {
+    top: 70%;
+  }
+
+  .technical_solution_first_box::before {
+    width: 68%;
+    left: 16%;
+    top: 67%;
+  }
+
+  .technical_solution_second_box::before {
+    width: 70%;
+    left: 20%;
+    top: 65%;
+  }
+
+  .solution_three_box::before {
+    left: 11%;
+    top: 62%;
+  }
+
+  .technical_cloud_first_box::before {
+    width: 67%;
+    left: 6%;
+    top: 61%;
+  }
+
+  .technical_cloud_second_box::before {
+    left: 30%;
+  }
+
+  .technical_redteam_first_box::before {
+    width: 70%;
+    left: 9%;
+    top: 55%;
+  }
+
+  .technical_mob_pluse_left {
+    left: 6%;
+    top: 32%;
+  }
+
+  .technical_red_second_box::before {
+    left: 7%;
+    top: 47%;
+  }
+
+  .contact_text_img::before {
+    left: 78%;
+    width: 26%;
+  }
+
+  .other_four_risk_three_box::before {
+    left: 16%;
+    top: 63%;
+  }
+
+  .other_third_risk_second_box::before {
+    left: 11%;
+    top: 54%;
+  }
+
+  .other_third_risk_first_box::before {
+    left: 13%;
+    top: 58%;
+  }
+
+  .other_forensic_first_box::before {
+    left: 14.5%;
+  }
+
+  .other_forensic_pluse_right_img {
+    right: 5%;
+  }
+  .other_third_party_first_box::before {
+    left: 18%;
+    top: 65%;
+}
+.other_third_party_second_box::before {
+  left: 26%;
+  top: 61%;
+}
+  /* .dashad_line::after,
+    .dashad_line::before {
+        right: -48px;
+    } */
+
+  /* .dashad_line_three::before,
+    .dashad_line_three::after {
+        left: -16px;
+    } */
+
+  .discovery_three_box::before {
+    top: 63%;
+    left: 12%;
+  }
+
+  .discovery_second_box::after {
+    left: 28%;
+  }
+
+  .navbar_padding {
+    padding: 0px 59px;
+  }
+
+  .home_menu_block {
+    padding: 0 59px 0 15px;
+  }
+
+  .technical_web_second_box::before,
+  .technical_web_first_box::before {
+    top: 67%;
+    left: 11%;
+    width: 70%;
+  }
+
+  .technical_web_second_box::before {
+    top: 59%;
+    left: 21%;
+    width: 70%;
+  }
+
+  .technical_mob_second_box::before {
+    top: 59%;
+    left: 21%;
+    width: 70%;
+  }
+
+  .technical_mob_first_box::before {
+    width: 70%;
+    left: 23%;
+    top: 67%;
+  }
+
+  .technical_review_second_box::before {
+    width: 70%;
+    left: 7%;
+  }
+
+  .technical_review_three_box::before {
+    left: 14%;
+    top: 62%;
+  }
+
+  .technical_firewall_pluse_left {
+    left: -8%;
+  }
+
+  .triangle_firewall {
+    right: 31%;
+  }
+
+  .discovery_first_box::before {
+    width: 61%;
+    left: 10%;
+    top: 63%;
+  }
+
+  .api_box {
+    padding: 41px 115px 80px 115px;
+  }
+
+  .api_second_box::after {
+    width: 75%;
+    left: 17%;
+    bottom: -75%;
+  }
+
+  .api_three_box::after {
+    width: 71%;
+    left: 14%;
+    bottom: -64%;
+  }
+
+  .api_fore_box::after {
+    width: 72%;
+    left: 16%;
+    bottom: -70%;
+  }
+
+  .api_five_box::before {
+    width: 70%;
+    left: 9%;
+    top: 73%;
+  }
+
+  .wireless_second_box::before {
+    width: 61%;
+    left: 8%;
+    bottom: -52%;
+  }
+
+  .wireless_three_box::after {
+    left: 4%;
+    bottom: -58%;
+    width: 66%;
+  }
+
+  .our_leadership_background_2 {
+    bottom: 127px;
+  }
+
+  .our_leadership_2 h3,
+  .main_title {
+    font-size: 40px;
+    line-height: 48.79px;
+  }
+
+  .our_leadership_3_img {
+    left: 34%;
+  }
+}
+
+@media (max-width: 1199px) {
+  .other_services_24x7_first_box {
+    padding: 0 0 170px 0;
+}
+.other_services_24x7_three_box,.other_services_24x7_second_box {
+  padding: 0 0 150px 0;
+}
+.other_services_24x7_first_box::before {
+  top: 59%;
+}
+.footer:before {
+  bottom: 58px;
+  right: 13px;
+}
+.footer::after {
+  top: -67%;
+}
+.other_staff_first_box::before {
+  left: 27%;
+}
+.other_phising_first_box::before,.other_phising_three_box::before {
+  left: 29.5%;
+}
+.other_phising_second_box::before {
+  left: 28.5%;
+}
+.other_data_first_box::before {
+  left: 28%;
+  top: 52%;
+}
+.other_ot_iot_first_box::before {
+  left: 29%;
+}
+.other_ot_iot_second_box::before {
+  left: 28%;
+}
+.other_ot_iot_pluse_img {
+  left: 4%;
+}
+.other_social_media_first_box::before {
+  left: 29%;
+  top: 58%;
+}
+.other_social_media_second_box::before {
+  left: 28.5%;
+  top: 52%;
+}
+  .footer_social a.btn {
+    margin: 0 5px 0 0;
+  }
+  .technical_web_second_box::before {
+    top: 55%;
+    left: 19%;
+}
+.api_second_box {
+  padding: 0 0 110px 0;
+}
+.api_fore_box {
+  padding: 0px 0 140px 0;
+}
+.wireless_fore_box::after {
+  left: 28%;
+}
+.compliance_soc_three_box::before {
+  left: 26.5%;
+}
+  .breadcrumb_blog {
+    margin-top: 85px;
+  }
+
+  .our_leadership_2 {
+    padding: 30px 20px 0 20px;
+  }
+
+  .mobile_screen_height {
+    overflow-y: auto;
+    height: 500px;
+  }
+
+  .why_us_blog_content {
+    padding: 30px 30px;
+  }
+
+  .why_us_blog_detail {
+    font-size: 19px;
+  }
+
+  .why_us_padding {
+    padding: 35px 0 0 0;
+  }
+
+  .discovery_three_box::before {
+    top: 63%;
+    left: 28%;
+  }
+
+  .flex_col_row {
+    margin-top: 100px !important;
+  }
+
+  .technical_review_first_box::before {
+    left: 27%;
+    top: 64%;
+  }
+
+  .technical_review_second_box::before {
+    left: 18%;
+  }
+
+  .technical_review_three_box::before {
+    left: 28%;
+    top: 58%;
+  }
+  .other_services_24x7_first_box::before {
+    left: 27.5%;
+}
+.other_services_24x7_second_box::after {
+  left: 27%;
+  bottom: -60%;
+}
+.other_services_24x7_three_box::before {
+  left: 29%;
+  top: 53%;
+}
+.other_third_party_first_box::before {
+  left: 27%;
+  top: 58%;
+}
+.other_third_party_second_box::before {
+  left: 29%;
+  top: 55%;
+}
+  .triangle_firewall {
+    right: 29%;
+  }
+
+  .api_second_box::after {
+    left: 19%;
+    bottom: -65%;
+  }
+
+  .api_three_box::after {
+    left: 20%;
+  }
+
+  .api_fore_box::after {
+    left: 28%;
+    bottom: -62%;
+  }
+
+  .api_five_box::before {
+    left: 21%;
+    top: 68%;
+  }
+
+  .other_forensic_first_box::before {
+    left: 27.5%;
+  }
+
+  .technical_redteam_first_box::before,
+  .solution_three_box::before {
+    left: 22%;
+  }
+  .solution_three_box::before {
+    left: 24%;
+    top: 59%;
+  }
+
+  .technical_cloud_first_box::before {
+    left: 29%;
+    top: 51%;
+  }
+
+  .technical_solution_first_box::before {
+    left: 23%;
+    top: 60%;
+  }
+
+  .technical_solution_second_box::before {
+    top: 56%;
+  }
+
+  .compliance_iso_first_box::before {
+    top: 59%;
+    left: 29%;
+  }
+
+  .compliance_soc_second_box::before {
+    left: 19.5%;
+    top: 61%;
+  }
+
+  .compliance_soc_first_box::before {
+    left: 29.2%;
+    top: 62%;
+  }
+
+  .compliance_hittrust_first_box::before {
+    left: 22.5%;
+    top: 70%;
+  }
+
+  .compliance_hittrust_second_box::before {
+    left: 19.5%;
+    top: 59%;
+  }
+
+  .compliance_hittrust_three_box::before {
+    left: 22.5%;
+    top: 67%;
+  }
+
+  .compliance_hippa_first_box::before {
+    left: 28.5%;
+  }
+
+  .compliance_hippa_three_box::before {
+    left: 28%;
+  }
+
+  .compliance_iso_2_first_box::before {
+    left: 28.5%;
+  }
+
+  .compliance_iso_4_three_box::before {
+    left: 23%;
+  }
+
+  .it_general_first_box::before,
+  .it_general_three_box::after,
+  .it_general_five_box::before {
+    left: 21%;
+  }
+
+  .it_general_second_box::after,
+  .it_general_fore_box::after {
+    left: 28%;
+  }
+
+  .compliance_cyber_second_box::before {
+    left: 29%;
+    top: 64%;
+  }
+
+  .compliance_iso_second_box::after {
+    left: 18%;
+    bottom: -53%;
+  }
+  .compliance_fore_box::after {
+    left: 27%;
+    bottom: -74%;
+  }
+  .compliance_fore_box {
+    padding: 0 0 90px 0;
+}
+
+  .compliance_three_box::after {
+    left: 21%;
+    bottom: -63%;
+  }
+
+  .technical_solution_pluse_left {
+    left: 5%;
+    top: 21%;
+  }
+
+  .technical_penetration_second_box::before {
+    left: 25.5%;
+    top: 56%;
+  }
+
+  .technical_penetraion_first_box::before {
+    top: 59%;
+    left: 28%;
+  }
+
+  .other_third_risk_first_box::before {
+    left: 27%;
+    top: 55%;
+  }
+
+  .other_third_risk_second_box::before {
+    left: 28%;
+  }
+
+  .other_four_risk_three_box::before {
+    left: 28%;
+    top: 60%;
+  }
+
+  .technical_red_second_box::before {
+    left: 28%;
+    top: 52%;
+  }
+
+  .discovery_first_box::before {
+    left: 28%;
+    top: 63%;
+  }
+
+  .app_btn_outer,
+  .google_btn_outer {
+    max-width: 200px;
+  }
+
+  .slide_desc {
+    margin: 15px 0 !important;
+  }
+
+  .slide_title {
+    font-size: 40px;
+    line-height: 44px;
+  }
+
+  .carousel-caption {
+    top: 0px;
+  }
+
+  .discovery_box,
+  .it_general_box,
+  .compliance_cyber_box,
+  .other_service_box,.other_staff_service_box,.other_phising_service_box,.other_deep_box,.other_party_box {
+    padding: 48px 65px 80px;
+  }
+
+  .other_deep_first_box::before {
+    left: 30%;
+    top: 65%;
+}
+.other_deep_second_box::before {
+  left: 28%;
+  top: 54%;
+}
+.penetration_three_box::before {
+  left: 24%;
+}
+  .api_box {
+    padding: 48px 65px 80px 65px;
+  }
+
+  .wireless_box {
+    padding: 48px 65px 80px 65px;
+  }
+
+  .vulnerability_part {
+    margin-left: 10px;
+  }
+
+  .discovery_fore_box::before {
+    width: 9%;
+  }
+
+  .navbar_padding {
+    padding: 0px 70px;
+  }
+
+  .home_menu_block {
+    padding: 0 40px 0 40px;
+  }
+
+  .home_mega_menu {
+    justify-content: flex-start;
+  }
+
+  .compliance_cyber_first_box::before {
+    left: 18.5%;
+    top: 58%;
+  }
+
+  /* .dashad_line_three::after {
+        left: 4px;
+    } */
+
+  /* .technical_web_dashad_line::after {
+        right: -28px;
+        top: 15%;
+    } */
+
+  .technical_web_first_box::before {
+    left: 23%;
+    top: 63%;
+  }
+
+  /* .technical_web_dashad_line::before {
+        top: 12%;
+        right: -28px;
+    } */
+
+  /* .dashad_line::after,
+    .dashad_line::before {
+        right: -27px;
+    } */
+
+  /* .api_dashad_line_three::after {
+        top: 9.5%;
+        left: 4px;
+        height: 211px;
+    } */
+
+  /* .api_dashad_line_three::before {
+        top: 8.5%;
+        left: 4px;
+        width: 191px;
+    } */
+
+  /* .api_three_box::after {
+        left: 20%;
+        bottom: -65%;
+        width: 70%;
+    } */
+
+  /* .api_fore_box::after {
+        left: 29%;
+        bottom: -71%;
+    } */
+
+  /* .api_five_box::before {
+        left: 19%;
+        top: 74%;
+        width: 70%;
+    } */
+
+  /* .api_second_box::after {
+        width: 70%;
+        bottom: -66%;
+    } */
+
+  /* .wireless_dashad_line_three::after {
+        top: -0.5%;
+        left: 4px;
+    } */
+
+  /* .wireless_dashad_line_five::after {
+        top: 6.5%;
+        left: 4px;
+    } */
+
+  .wireless_first_box::before {
+    left: 20%;
+    top: 77%;
+  }
+
+  .wireless_second_box::before {
+    left: 22%;
+    bottom: -54%;
+  }
+
+  .wireless_three_box::after {
+    left: 20%;
+  }
+
+  /* .api_fore_box::after {
+        left: 28%;
+    } */
+
+  /* .wireless_dashad_line_three::before,
+    .wireless_dashad_line_five::after,
+    .wireless_dashad_line_five::before {
+        left: 4px;
+    } */
+
+  /* .wireless_second_box::before {
+        left: 16%;
+        bottom: -57%;
+    } */
+
+  .technical_redteam_first_box {
+    padding: 0 0 160px 0;
+  }
+
+  /* .technical_redteam_first_box::before {
+        left: 30%;
+        top: 49%;
+    } */
+
+  /* .technical_web_second_box::before {
+        left: 30%;
+        top: 62%;
+    } */
+
+  /* .technical_red_dashad_line::after {
+        top: 0%;
+        right: -28px;
+    } */
+
+  /* .technical_cloud_first_box::before {
+        left: 17%;
+        top: 67%;
+    } */
+
+  /* .technical_cloud_dashad_line::after {
+        top: 0%;
+        right: -29px;
+    } */
+
+  .our-proprietary-box .promo-desc,
+  .service .promo-desc {
+    font-size: 17px;
+    margin-top: 17px;
+  }
+
+  .service h4.promo-title {
+    font-size: 20px;
+  }
+
+  .technical_mob_first_box::before {
+    left: 25%;
+    top: 61%;
+  }
+
+  /* .technical_review_first_box::before,
+    .technical_review_three_box::before {
+        left: 27%;
+    } */
+
+  /* .technical_review_second_box::before {
+        left: 23%;
+    } */
+
+  .technical_firewall_pluse_left {
+    left: -4%;
+  }
+
+  .our_leadership_background_2 {
+    bottom: 90px;
+  }
+
+  .row.service_testing_images {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 1024px) {
+  .other_phising_first_box {
+    padding: 0 0 180px 0;
+}
+.other_phising_second_box {
+  padding: 0 0 200px 0;
+}
+.other_phising_three_box {
+  padding: 0 0 195px 0;
+}
+.other_deep_first_box::before {
+  left: 16%;
+  top: 68%;
+}
+.other_deep_second_box::before {
+  left: 30%;
+  top: 57%;
+}
+.other_social_media_second_box::before {
+  left: 12.5%;
+  top: 53%;
+}
+.other_social_media_first_box::before {
+  left: 31%;
+  top: 56%;
+}
+.compliance_fore_box::after {
+  left: 29%;
+}
+  .our_leadership_space {
+    padding: 0 20px 0 0;
+  }
+
+  .our_leadership_3_img {
+    left: 30%;
+  }
+
+  .our_leadership_4_img {
+    right: 20%;
+  }
+
+  .title_des.light {
+    width: auto;
+  }
+
+  .blog_name {
+    font-size: 24px;
+  }
+
+  .blog_detail {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+
+  .blog-button {
+    font-size: 17px;
+  }
+
+  /*   .discovery_first_box::before {
+        width: 62%;
+        left: 15%;
+        top: 68%;
+    }
+
+    .discovery_border_second,
+    .discovery_border_fore,
+    .api_border_fore {
+        margin-left: 21px;
+    }
+*/
+  .technical_services_main_title {
+    font-size: 30px;
+    line-height: 36.84px;
+  }
+
+  /* .dashad_line_three::after {
+        left: -19px;
+    }
+
+    .dashad_line_three::before {
+        left: -16px;
+    } */
+
+  .breadcrumb .breadcrumb_title {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .technical_title_line {
+    margin: -5px auto 15px auto;
+  }
+
+  /* .discovery_border_second,.discovery_border_fore {
+        margin-left: 0px;
+    } */
+  .brief_title,
+  .security_title {
+    font-size: 25px;
+    line-height: 35.2px;
+    margin: 10px 0 30px 0;
+  }
+
+  /*.discovery_fore_box::before {
+        width: 15%;
+        height: 37%;
+        left: 54%;
+        top: 93%;
+    }
+
+    .discovery_border::after {
+        height: 212px;
+    }
+
+    .discovery_border::before {
+        width: 218px;
+    }
+
+    .discovery_border_second::before {
+        left: -6px;
+        width: 222px;
+    }
+
+    .discovery_border_second::after {
+        height: 190px;
+    }*/
+
+  .intelligence_text,
+  .identify_text {
+    font-size: 18px;
+  }
+
+  /*.discovery_three_box::before {
+        left: 14%;
+        top: 68%;
+    }
+
+    .discovery_second_box::after {
+        left: 30%;
+    }
+
+    .technical_web_dashad_line::before {
+        top: 13.5%;
+    }
+
+    .technical_web_dashad_line::after {
+        top: 14%;
+        right: -29px;
+        height: 215px;
+    }
+
+    .technical_web_first_box::before {
+        width: 60%;
+        height: 60%;
+        left: 16%;
+        top: 65%;
+    }
+
+    .technical_web_second_box::before {
+        width: 60%;
+        left: 35%;
+        top: 63%;
+    }
+
+    .technical_mob_pluse_left {
+        position: absolute;
+        left: 7%;
+        top: 34%;
+    }
+
+    .technical_mob_first_box::before {
+        left: 20%;
+        top: 62%;
+    }
+
+    .technical_web_dashad_line::before {
+        top: 15.5%;
+    }
+
+    .technical_web_dashad_line::after {
+        top: 16%;
+    }
+
+    .technical_review_dashad_second::before {
+        left: 43px;
+    }
+
+    .technical_review_second_box::before {
+        left: 14%;
+        top: 81%;
+    }
+
+    .technical_review_three_box::before {
+        left: 11%;
+        top: 61%;
+    }
+
+    .technical_firewall_pluse_left {
+        top: 100%;
+    }
+
+    .triangle_firewall {
+        right: 29%;
+    }
+
+    .api_dashad_line_three::after {
+        left: -16px;
+        top: 15.5%;
+    }
+
+    .api_dashad_line_three::before {
+        top: 14.5%;
+        left: -16px;
+    }
+
+    .technical_redteam_first_box::before {
+        left: 17%;
+        top: 54%;
+        width: 70%;
+    }
+
+    .technical_web_second_box::before {
+        width: 62%;
+        left: 31%;
+        top: 51%;
+    }
+
+    .technical_cloud_first_box::before {
+        left: 6%;
+        top: 63%;
+        width: 70%;
+    }
+
+    .technical_cloud_second_box::before {
+        left: 31%;
+    }*/
+
+  .our-proprietary .row+.row>div:nth-child(3) .our-proprietary-box {
+    padding: 25px 25px 25px 50px;
+  }
+
+  .contact_text_img::after,
+  .contact_text_img::before {
+    content: none;
+  }
+}
+
+@media (max-width: 991px) {
+  .member_team_item {
+    max-width: 100%;
+    margin: auto auto 24px auto;
+  }
+
+  .our_leadership_space {
+    padding: 20px 0px 0 0;
+  }
+  .footer::after {
+    top: -61%;
+}
+  .other_forensic_first_box::before {
+    left: 26.5%;
+  }
+  .other_staff_first_box::before {
+    top: 52%;
+    left: 25%;
+}
+  .our-proprietary-box {
+    padding: 30px;
+  }
+  .other_data_first_box::before {
+    left: 26.5%;
+    top: 52%;
+}
+.other_data_first_box {
+  padding: 0 0 200px 0;
+}
+  .our-proprietary-icon span {
+    width: 45px;
+    height: 45px;
+    font-size: 23px;
+    line-height: 50px;
+  }
+  .other_ot_iot_second_box::before {
+    left: 31%;
+}
+.other_ot_iot_first_box::before {
+  left: 30%;
+}
+.other_social_media_first_box::before {
+  left: 27.5%;
+  top: 54%;
+}
+.other_third_party_first_box::before {
+  left: 27.2%;
+  top: 48%;
+}
+.other_social_media_second_box::before {
+  left: 34.5%;
+  top: 49%;
+}
+.technical_web_first_box {
+  padding: 0 0 150px 0;
+}
+  .our-proprietary-icon {
+    border: 3px solid #50B84D;
+    padding: 4px;
+  }
+  .technical_review_three_box {
+    padding: 0 0 150px 0;
+}
+.wireless_first_box::before {
+  left: 30%;
+  top: 77%;
+}
+.wireless_second_box::before {
+  left: 26%;
+  bottom: -59%;
+}
+.wireless_three_box::after {
+  left: 27.5%;
+}
+.wireless_fore_box::after {
+  left: 34%;
+}
+  .our-proprietary-img-inner:before {
+    left: -50px;
+  }
+
+  .technical_mob_first_box::before {
+    left: 14%;
+    top: 63%;
+  }
+
+  .technical_review_three_box::before {
+    left: 19%;
+    top: 62%;
+  }
+
+  .triangle_firewall {
+    right: 32%;
+  }
+
+  .technical_firewall_pluse_left {
+    left: -8%;
+    top: 95%;
+  }
+
+  .api_second_box::after {
+    left: 13%;
+    bottom: -73%;
+  }
+
+  .technical_red_second_box::before {
+    left: 31%;
+    top: 47%;
+  }
+
+  .technical_cloud_first_box::before {
+    left: 17%;
+    top: 57%;
+  }
+
+  .technical_solution_first_box::before {
+    left: 16%;
+    top: 67%;
+  }
+
+  .technical_solution_second_box::before {
+    top: 64%;
+  }
+
+  .solution_three_box::before {
+    left: 8%;
+  }
+
+  .technical_penetraion_first_box::before {
+    top: 66%;
+    left: 16%;
+  }
+
+  .technical_penetration_second_box::before {
+    left: 19.5%;
+    top: 64%;
+  }
+
+  .compliance_iso_first_box::before {
+    top: 63%;
+    left: 14%;
+  }
+
+  .compliance_iso_second_box::after {
+    left: 14%;
+    bottom: -67%;
+  }
+
+  .compliance_fore_box::after {
+    left: 14%;
+    bottom: -77%;
+  }
+
+  .compliance_soc_first_box::before {
+    left: 14.2%;
+    top: 68%;
+  }
+
+  .compliance_soc_second_box::before {
+    left: 19.5%;
+    top: 66%;
+  }
+
+  .compliance_soc_three_box::before {
+    left: 13.5%;
+    top: 64%;
+  }
+
+  .compliance_hittrust_second_box::before {
+    left: 18.5%;
+    top: 65%;
+  }
+
+  .compliance_hittrust_three_box::before {
+    left: 14.5%;
+    top: 70%;
+  }
+
+  .compliance_iso_2_first_box::before {
+    left: 12.5%;
+  }
+
+  .compliance_iso_4_three_box::before {
+    left: 13%;
+  }
+
+  .compliance_cyber_first_box::before {
+    left: 10.5%;
+    top: 57%;
+    width: 80%;
+  }
+
+  .compliance_cyber_second_box::before {
+    left: 17%;
+    top: 64%;
+  }
+
+  /*.penetration_three_box::before {
+        left: 7%;
+        top: 70%;
+    }
+
+    .technical_penetration_second_box::before {
+        left: 32.5%;
+        top: 63%;
+    }
+
+    .technical_penetraion_first_box::before {
+        left: 10.5%;
+        top: 69%;
+    }
+
+    .technical_penetraton_dashad_line::before,
+    .technical_penetraton_dashad_line::after {
+        top: 14%;
+        right: -33px;
+    }
+
+    .penetration_dashad_line_three::after {
+        top: 15%;
+        left: -21px;
+    }
+
+    .penetration_dashad_line_three::before {
+        top: 13%;
+        left: -21px;
+    }
+
+    .penetration_four_dashad_line::after {
+        top: 18%;
+        right: -32px;
+    }
+
+    .penetration_four_dashad_line::before {
+        top: 17%;
+        right: -32px;
+    }
+
+    .technical_solution_dashad_line::after {
+        top: 24.2%;
+        right: -33px;
+    }
+
+    .technical_solution_dashad_line::before {
+        top: 23.5%;
+        right: -33px;
+    }
+
+    .solution_line_three::after {
+        top: 14%;
+        left: -20px;
+    }
+
+    .solution_line_three::before {
+        top: 12%;
+        left: -20px;
+    }
+
+    .technical_solution_second_box::before {
+        width: 70%;
+        top: 62%;
+    }
+
+    .solution_three_box::before {
+        left: 33%;
+    }
+
+    .technical_cloud_first_box::before {
+        left: 2%;
+    }
+
+    .technical_red_second_box::before {
+        left: 31%;
+    }
+
+    .technical_red_dashad_line::after,
+    .technical_red_dashad_line::before {
+        right: -33px;
+    }
+
+    .wireless_dashad_line_three::before,
+    .wireless_dashad_line_three::after,
+    .wireless_dashad_line_five::before,
+    .wireless_dashad_line_five::after {
+        left: -20px;
+    }
+
+    .dashad_line::after,
+    .dashad_line::before {
+        right: -32px;
+    }
+
+    .discovery_three_box::before {
+        width: 60%;
+    }
+
+    .technical_web_second_box::before {
+        width: 69%;
+        left: 31%;
+        top: 58%;
+    }
+
+    .technical_web_first_box::before {
+        width: 70%;
+    }
+
+    .api_second_box::after {
+        bottom: -74%;
+    }
+
+    .api_dashad_line_three::before {
+        top: 12.5%;
+    }
+
+    .api_dashad_line_three::after {
+        left: -21px;
+    }*/
+  .discovery_first_box::before {
+    left: 9%;
+    top: 68%;
+  }
+
+  /* .our_leadership_background_2 {
+    bottom: 167px;
+  } */
+
+  .other_service_box,.other_staff_service_box,.other_phising_service_box{
+    padding: 48px 95px 80px;
+  }
+  .other_deep_box {
+    padding: 48px 80px 80px;
+  }
+  .other_deep_first_box::before {
+    left: 28%;
+    top: 65%;
+}
+.other_deep_second_box::before {
+  left: 34%;
+  top: 55%;
+}
+  .other_phising_second_box,.other_phising_first_box,.other_phising_three_box{
+    padding: 0 0 170px 0;
+}
+  .other_four_risk_three_box {
+    padding: 0 0 140px 0;
+  }
+
+  .other_four_risk_three_box::before {
+    top: 58%;
+  }
+
+  .our_leadership_4_img {
+    right: 6%;
+  }
+
+  .our_leadership_3_img {
+    left: 10%;
+    top: 25%;
+  }
+
+  .discovery_three_box::before {
+    left: 8%;
+  }
+
+  .contact_us_location {
+    padding-left: 15px;
+  }
+
+  .why_us_blog_lock {
+    top: -6%;
+  }
+
+  .why_us_space {
+    padding: 30px 0px 0px 0px;
+  }
+
+  .faq_accordion {
+    display: block;
+  }
+
+  .desktop_screen {
+    display: none;
+  }
+
+  .technical_web_first_box::before {
+    left: 27%;
+    top: 54%;
+    height: 70%;
+  }
+
+  .technical_web_second_box::before {
+    top: 57%;
+    left: 27%;
+  }
+  .technical_mob_second_box::before {
+    top: 57%;
+    left: 32%;
+}
+  .discovery_first_box::before,
+  .discovery_three_box::before {
+    left: 27%;
+    top: 60%;
+  }
+  .discovery_second_box::after {
+    left: 33%;
+    bottom: -60%;
+}
+  .technical_mob_first_box::before {
+    left: 27.4%;
+    top: 48%;
+  }
+
+  .technical_review_second_box::before {
+    left: 24%;
+  }
+
+  .technical_review_three_box::before {
+    left: 28%;
+    top: 54%;
+  }
+
+  .technical_firewall_pluse_left {
+    left: -2%;
+    top: 95%;
+  }
+
+  .api_second_box::after {
+    left: 27%;
+    bottom: -60%;
+  }
+
+  .api_three_box::after {
+    left: 27.5%;
+    bottom: -57%;
+  }
+
+  .api_fore_box::after {
+    left: 27%;
+    bottom: -62%;
+  }
+
+  .api_five_box::before {
+    left: 28%;
+    top: 68%;
+  }
+
+  .technical_redteam_first_box::before {
+    left: 27.4%;
+    top: 45%;
+  }
+
+  .technical_cloud_first_box::before {
+    left: 27.5%;
+    top: 49%;
+  }
+
+  .technical_solution_first_box::before {
+    left: 27.5%;
+    top: 57%;
+  }
+
+  .technical_solution_second_box::before {
+    top: 56%;
+    left: 30%;
+  }
+
+  .solution_three_box::before {
+    left: 27.1%;
+    top: 58%;
+  }
+
+  .discovery_fore_box::before {
+    left: 96%;
+  }
+
+  .compliance_iso_first_box::before {
+    left: 27.5%;
+  }
+
+  .compliance_iso_second_box::after {
+    left: 27%;
+    bottom: -55%;
+  }
+
+  .compliance_three_box::after {
+    left: 27.5%;
+    bottom: -56%;
+  }
+
+  .compliance_fore_box::after {
+    left: 29%;
+    bottom: -75%;
+  }
+
+  .compliance_soc_three_box::before {
+    left: 27.5%;
+    top: 64%;
+  }
+
+  .compliance_soc_second_box::before {
+    left: 29.5%;
+    top: 59%;
+  }
+
+  .compliance_soc_first_box::before {
+    left: 27.2%;
+    top: 57%;
+  }
+
+  .compliance_hittrust_first_box::before {
+    left: 27.5%;
+    top: 64%;
+  }
+
+  .compliance_hittrust_second_box::before {
+    left: 29.5%;
+    top: 53%;
+  }
+
+  .compliance_hittrust_three_box::before {
+    left: 28.5%;
+    top: 66%;
+  }
+
+  .compliance_hippa_first_box::before {
+    left: 27.5%;
+    top: 61%;
+  }
+
+  .compliance_hippa_second_box::before {
+    left: 27.5%;
+    top: 59%;
+  }
+
+  .compliance_hippa_three_box::before {
+    top: 62%;
+  }
+
+  .compliance_hippa_first_box,
+  .compliance_hippa_second_box,
+  .compliance_hippa_three_box {
+    padding: 0 0 95px 0;
+  }
+
+  .compliance_iso_2_first_box::before {
+    left: 27.5%;
+    top: 59%;
+  }
+
+  .compliance_iso_4_three_box::before {
+    left: 27.5%;
+    top: 65%;
+  }
+
+  .it_general_first_box::before {
+    left: 29%;
+  }
+
+  .it_general_second_box::after,
+  .it_general_five_box::before,
+  .it_general_three_box::after {
+    left: 28%;
+  }
+
+  .it_general_fore_box::after {
+    left: 27%;
+  }
+
+  .it_general_five_box::before {
+    left: 25%;
+  }
+
+  .compliance_cyber_first_box::before {
+    left: 21.5%;
+    top: 56%;
+  }
+
+  .compliance_cyber_second_box::before {
+    left: 27%;
+    top: 56%;
+  }
+
+  /* .technical_penetraton_dashad_line::before,
+    .technical_penetraton_dashad_line::after {
+        top: 5%;
+        right: 57px;
+    } */
+
+  .technical_penetraion_first_box::before {
+    left: 27.5%;
+    top: 58%;
+  }
+
+  /* .penetration_dashad_line_three::after {
+        top: 8%;
+        left: 21px;
+    }
+
+    .penetration_dashad_line_three::before {
+        top: 6%;
+        left: 21px;
+    } */
+
+  .technical_penetration_second_box::before {
+    left: 27.5%;
+    top: 59%;
+  }
+
+  /* .penetration_four_dashad_line::after,
+    .penetration_four_dashad_line::before {
+        right: 57px;
+        top: 4%;
+    } */
+
+  .penetration_three_box::before {
+    left: 28%;
+    top: 61%;
+  }
+
+  .technical_red_second_box::before {
+    left: 31.7%;
+    top: 44%;
+  }
+
+  /* .wireless_dashad_line_three::before,
+    .wireless_dashad_line_three::after,
+    .wireless_dashad_line_five::before,
+    .wireless_dashad_line_five::after {
+        left: 22px;
+    } */
+
+  /* .technical_solution_dashad_line::after {
+        top: 18.2%;
+        right: 56px;
+    }
+
+    .technical_solution_dashad_line::before {
+        top: 17.5%;
+        right: 56px;
+    }
+
+    .solution_line_three::after {
+        top: 5%;
+        left: 21px;
+    }
+
+    .solution_line_three::before {
+        top: 4%;
+        left: 21px;
+    } */
+
+  .solution_three_box::before {
+    left: 28.1%;
+  }
+
+  .navbar .navbar-nav {
+    margin-top: 5px;
+  }
+
+  .started_img {
+    display: flex;
+    justify-content: center;
+  }
+
+  .main_title {
+    margin-top: 20px;
+  }
+
+  .our-proprietary-icon span {
+    width: 39px;
+    height: 37px;
+    font-size: 21px;
+    line-height: 43px;
+  }
+
+  .our-proprietary-icon {
+    padding: 6px;
+    left: 20px !important;
+    right: auto !important;
+    top: -40px !important;
+    bottom: auto !important;
+    transform: unset !important;
+    display: none;
+  }
+
+  .our-proprietary-img-inner:before {
+    left: -60px;
+    width: 65px;
+  }
+
+  .our-proprietary .row+.row>div:nth-child(3) .our-proprietary-box,
+  .our-proprietary .row:nth-child(2) .our-proprietary-box,
+  .our-proprietary .row:nth-child(1) .our-proprietary-box {
+    padding: 20px 20px 20px 30px;
+  }
+
+
+  .home_mega_spach {
+    padding: 20px 15px 0px 15px;
+  }
+
+  #navbarCollapse .nav-item .dropdown-menu {
+    max-height: 450px;
+    overflow-x: scroll;
+  }
+
+  .header_right {
+    padding-bottom: 20px;
+  }
+
+  .home_menu_block::after {
+    content: none;
+  }
+
+  .home_menu_block p {
+    font-size: 18px;
+    margin: 12px 0px 15px 0;
+  }
+
+  .home_menu_block ul li a {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
+  .slide_title,
+  .about_main_title {
+    font-size: 40px;
+  }
+
+  .products+.products>div {
+    margin-top: -100px;
+  }
+
+  .products.product1>div {
+    margin-top: 0;
+  }
+
+  .products.product4>div {
+    margin-bottom: 0;
+  }
+
+  .mt-160 {
+    margin-top: 100px;
+  }
+
+  .footer .app_btn_outer,
+  .footer .google_btn_outer {
+    max-width: 130px;
+  }
+
+  /*  .discovery_first_box::before {
+        width: 60%;
+        height: 100%;
+        left: 29%;
+        top: 69%;
+    }
+
+    .discovery_second_box::after {
+        width: 60%;
+        left: 26%;
+        bottom: -72%;
+    }
+
+    .discovery_three_box::before {
+        width: 60%;
+        left: 30%;
+    }
+
+    .discovery_border_three::before {
+        width: 214px;
+    }
+
+    .discovery_border_three::after {
+        height: 192px;
+    }
+
+    .discovery_border_second,
+    .api_border_fore {
+        margin-left: 0px;
+    }*/
+
+  .discovery_title_box {
+    font-size: 18px;
+    line-height: 21.58px;
+  }
+
+  .vulnerability_part,
+  .discovery_border_fore {
+    margin-left: 0px;
+  }
+
+  .mobile_faq {
+    display: none;
+  }
+
+  .accordion {
+    display: block;
+  }
+
+  /* .dashad_line::after,
+    .dashad_line::before {
+        right: 55px;
+    }
+
+    .discovery_fore_box::before {
+        width: 8%;
+        left: 93%;
+    }
+
+    .dashad_line_three::after,
+    .dashad_line_three::before {
+        left: 21px;
+    }
+
+    .technical_img {
+        height: 250px;
+        object-fit: cover;
+    }
+
+    .discovery_border_second {
+        height: 208px;
+    }
+
+    .home_mega_menu {
+        flex-direction: column;
+    }
+
+    .technical_web_dashad_line::after {
+        top: 7%;
+        right: 56px;
+    }
+
+    .technical_web_dashad_line::before {
+        top: 7%;
+        right: 61px;
+    }
+
+    .technical_web_first_box::before,
+    .technical_web_second_box::before {
+        left: 26%;
+        top: 60%;
+    }*/
+
+  /*.technical_web_first_box {
+        padding: 0 0 150px 0;
+    }
+
+    .technical_mob_first_box::before {
+        left: 28.4%;
+        top: 50%;
+    }
+
+    .technical_review_dashad_second::before {
+        left: 27px;
+    }
+
+    .technical_review_first_box::before {
+        left: 28.5%;
+        top: 62%;
+    }
+
+    .technical_review_second_box::before {
+        left: 23%;
+        top: 76%;
+    }
+
+    .technical_review_three_box::before {
+        left: 28%;
+        top: 57%;
+    }*/
+
+  .lock_mobile {
+    display: block;
+  }
+
+  /*   .api_dashad_line_three::after {
+        left: 22px;
+        top: 3.2%;
+    }
+
+    .api_dashad_line_three::before {
+        top: 1.5%;
+        left: 22px;
+    }
+
+    .api_fore_box::after {
+        left: 27%;
+        bottom: -68%;
+    }
+
+    .api_second_box::after {
+        width: 46%;
+        bottom: -59%;
+    }
+
+    .api_three_box::after {
+        left: 17%;
+        bottom: -66%;
+    }
+
+    .technical_red_dashad_line::after {
+        right: 56px;
+    }
+
+    .technical_red_dashad_line::before {
+        top: -2%;
+        right: 57px;
+    }
+
+    .technical_redteam_first_box::before {
+        left: 28.4%;
+        top: 45%;
+    }
+
+    .technical_cloud_dashad_line::after,
+    .technical_cloud_dashad_line::before {
+        right: 57px;
+    }
+
+    .technical_cloud_second_box::before {
+        left: 27%;
+    }
+
+    .technical_cloud_first_box::before {
+        left: 28.5%;
+        top: 40%;
+    }*/
+
+  /* nav.navbar.navbar-expand-lg.bg-white.navbar-light.sticky-top {
+        padding: 5px 0px;
+    } */
+
+  .why_us_blog_item {
+    margin-bottom: 20px;
+  }
+
+  .contact_form {
+    margin-bottom: 40px;
+  }
+
+  .contact_text_img h3 {
+    font-size: 40px;
+  }
+
+  .contact_area {
+    margin-bottom: 35px;
+  }
+
+  .our_empowering {
+    padding: 350px 56px 60px 56px;
+    flex-direction: column-reverse;
+  }
+
+  .our_leadership_harsh_2 {
+    right: 50%;
+    top: 33%;
+  }
+
+  .our_leadership_background_2 {
+    bottom: 35%;
+    right: 477px;
+  }
+
+  .our_leadership_nisarg,
+  .founder_text_area,
+  .founder_ceo_img,
+  .founder_text {
+    width: 100%;
+  }
+
+  .our_leadership_harsh {
+    right: 5%;
+    left: unset;
+  }
+
+  .our_leadership_background {
+    top: -23px;
+    left: 48%;
+  }
+
+  .founder_ceo_box {
+    padding: 370px 56px 5px 56px;
+    flex-direction: column-reverse;
+  }
+
+  .our_leadership_3_img {
+    left: 10%;
+    top: -570px;
+  }
+
+  .our-proprietary .row:nth-child(2) .our-proprietary-box {
+    max-height: 100%;
+  }
+
+  .our-proprietary-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    order: -1;
+    margin: 20px 0;
+    width: 100%;
+  }
+
+  .our-proprietary-img-inner:before,
+  .our-proprietary-img-inner:after,
+  .our-proprietary .row:nth-child(1)>div:nth-child(2) .our-proprietary-box:after,
+  .our-proprietary .row:nth-child(1)>div:nth-child(1) .our-proprietary-box:after,
+  .our-proprietary .row:nth-child(1)>div:nth-child(2) .our-proprietary-box:after {
+    content: none;
+    display: none;
+  }
+
+  .our-proprietary-item,
+  .our-proprietary .row:nth-child(1)>div:nth-child(2) {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 24px;
+  }
+
+  .our-proprietary .row:nth-child(1) .our-proprietary-box {
+    margin-bottom: 20px;
+  }
+
+  .our-proprietary-item {
+    width: 50%;
+    margin: 0 !important;
+  }
+}
+
+@media (max-width: 767px) {
+
+  .our_leadership_2 h3,
+  .main_title {
+    line-height: 43.79px;
+  }
+
+  /* .service-content {
+    min-height: 217px;
+} */
+  .why_us_text {
+    font-size: 19px;
+    line-height: 24px;
+  }
+  .footer:before {
+    bottom: 242px;
+}
+.other_data_first_box::before {
+  left: 16.5%;
+  top: 59%;
+}
+.other_data_first_box {
+  padding: 0 0 130px 0;
+}
+.other_staff_first_box::before {
+  top: 60%;
+  left: 23%;
+}
+  .other_forensic_pluse_left {
+    left: 6%;
+    top: 41%;
+  }
+  .compliance_fore_box {
+    padding: 0 0 50px 0;
+}
+  .other_forensic_first_box::before {
+    left: 15.5%;
+  }
+
+  .other_forensic_pluse_right_img {
+    right: 6%;
+    bottom: 3%;
+  }
+
+  .other_forensic_second_box {
+    padding: 0 0 0px 0;
+  }
+
+  .member_team_name {
+    font-size: 20px;
+  }
+
+  .member_team_detail.lato {
+    font-size: 16px;
+  }
+
+  .member_team_item {
+    padding: 20px;
+  }
+
+  .member_team_content .fa-linkedin {
+    font-size: 45px;
+  }
+
+  .main_lock {
+    right: -13%;
+    top: -13%;
+    width: 300px;
+  }
+
+  .our-proprietary .row:nth-child(1) .our-proprietary-item {
+    margin: 0 0px;
+  }
+  .other_social_media_first_box::before {
+    left: 18.5%;
+    top: 56%;
+  }
+  .other_social_media_second_box::before {
+    left: 34.5%;
+    top: 56%;
+  }
+  .technical_penetraton_dashad_line::before,
+  .technical_penetraton_dashad_line::after {
+    top: 14%;
+    right: 11px;
+  }
+
+  .technical_review_second_box::before {
+    left: 3%;
+  }
+
+  .technical_review_three_box::before {
+    left: 14%;
+    top: 61%;
+  }
+
+  .technical_firewall_pluse_left {
+    left: -7%;
+    top: 95%;
+  }
+
+  .triangle_firewall {
+    right: 35%;
+  }
+
+  .api_three_box::after {
+    left: 4.5%;
+    bottom: -65%;
+  }
+
+  .compliance_iso_first_box::before {
+    left: 16.5%;
+  }
+
+  .compliance_iso_second_box::after {
+    left: 30%;
+    bottom: -70%;
+  }
+
+  .compliance_three_box::after {
+    left: 18.5%;
+    bottom: -61%;
+  }
+
+  .compliance_fore_box::after {
+    left: 30%;
+    bottom: -82%;
+  }
+
+  .compliance_soc_first_box::before {
+    left: 7.2%;
+    top: 67%;
+  }
+
+  .compliance_soc_second_box::before {
+    left: 31.5%;
+    top: 67%;
+  }
+
+  .compliance_soc_three_box::before {
+    left: 6.5%;
+    top: 68%;
+  }
+
+  .compliance_hittrust_first_box::before {
+    left: 14.5%;
+    top: 73%;
+  }
+
+  .compliance_hittrust_second_box::before {
+    left: 20.5%;
+    top: 66%;
+  }
+
+  .compliance_hittrust_three_box::before {
+    left: 18.5%;
+    top: 71%;
+  }
+
+  .compliance_hippa_first_box::before {
+    left: 15.5%;
+    top: 75%;
+  }
+
+  .compliance_hippa_second_box::before {
+    top: 65%;
+  }
+
+  .compliance_hippa_three_box::before {
+    left: 14%;
+    top: 70%;
+  }
+
+  .compliance_iso_4_three_box::before {
+    left: 13.5%;
+    top: 74%;
+  }
+
+  .compliance_iso_2_first_box::before {
+    left: 12.5%;
+    top: 67%;
+  }
+
+  .it_general_five_box::before {
+    left: 15%;
+  }
+
+  .it_general_second_box::after,
+  .it_general_five_box::before,
+  .it_general_three_box::after {
+    left: 15%;
+  }
+
+  .it_general_fore_box::after {
+    left: 14%;
+  }
+
+  .it_general_first_box::before {
+    left: 16%;
+  }
+
+  .penetration_three_box::before {
+    left: 15%;
+    top: 70%;
+  }
+
+  .technical_penetraion_first_box::before {
+    left: 20.5%;
+    top: 66%;
+    width: 80%;
+  }
+
+  .technical_penetration_second_box::before {
+    left: 24.5%;
+    top: 62%;
+  }
+
+  .technical_solution_first_box::before {
+    left: 14.5%;
+    top: 68%;
+  }
+
+  .technical_solution_second_box::before {
+    top: 63%;
+    left: 21%;
+  }
+
+
+  .solution_three_box::before {
+    left: 7.1%;
+    top: 62%;
+  }
+
+  .technical_cloud_first_box::before {
+    left: 6.5%;
+    top: 60%;
+  }
+
+
+  .technical_cloud_second_box::before {
+    left: 31%;
+  }
+
+  .technical_redteam_first_box::before {
+    left: 9.4%;
+    top: 55%;
+  }
+
+
+  .technical_red_second_box::before {
+    left: 35.7%;
+    top: 53%;
+  }
+
+  .technical_red_second_box::before {
+    left: 39.6%;
+    top: 49%;
+  }
+
+  .wireless_first_box::before {
+    left: 6%;
+    top: 78%;
+    width: 70%;
+  }
+
+  .wireless_second_box::before {
+    left: 30%;
+    bottom: -56%;
+  }
+
+  .wireless_three_box::after {
+    left: 5%;
+    bottom: -58%;
+  }
+
+  /* .api_fore_box::after {
+    left: 30%;
+    bottom: -72%;
+  } */
+
+  /* .api_five_box::before {
+    left: 4%;
+    top: 74%;
+  } */
+
+  /* .dashad_line::after,
+    .dashad_line::before {
+        right: 11px;
+    }
+
+    .dashad_line_three::after,
+    .dashad_line_three::before {
+        left: -15px;
+    } */
+
+  .discovery_first_box::before,
+  .discovery_three_box::before {
+    left: 11%;
+  }
+
+  .discovery_second_box::after {
+    left: 30%;
+  }
+
+  .technical_web_first_box::before {
+    width: 80%;
+    top: 70%;
+    left: 8%;
+  }
+
+  .technical_mob_first_box::before {
+    left: 14.4%;
+    top: 62%;
+  }
+
+  .technical_review_first_box::before {
+    left: 9.5%;
+    top: 65%;
+  }
+
+
+  .api_second_box::after {
+    width: 66%;
+    bottom: -73%;
+  }
+
+  .our_leadership_harsh {
+    left: unset;
+    right: unset;
+    transform: translate(-50%, -50%);
+    top: 25%;
+    left: 50%;
+  }
+
+  .our_leadership_background {
+    top: 25%;
+    left: unset;
+    right: 50%;
+    transform: translate(50%, -50%);
+  }
+
+  .our_leadership_harsh_2 {
+    right: unset;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .our_leadership_background_2 {
+    right: unset;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 50%;
+  }
+
+  .our_leadership_2 p {
+    font-size: 19px;
+  }
+
+  .api_three_box::after {
+    left: 13.5%;
+    bottom: -65%;
+  }
+
+  .api_five_box::before {
+    left: 12%;
+  }
+
+  .technical_red_second_box::before {
+    left: 32.6%;
+    top: 51%;
+  }
+
+  .solution_three_box::before {
+    left: 13.1%;
+  }
+
+  .compliance_iso_second_box::after {
+    left: 33%;
+    bottom: -73%;
+  }
+
+  .compliance_fore_box::after {
+    left: 33%;
+    bottom: -82%;
+  }
+
+  .compliance_soc_first_box::before {
+    left: 13.2%;
+    top: 69%;
+  }
+
+  .compliance_soc_second_box::before {
+    left: 36.5%;
+    top: 67%;
+  }
+
+  .compliance_soc_three_box::before {
+    left: 12.5%;
+    top: 72%;
+  }
+
+  /* .technical_penetraton_dashad_line::before,
+    .technical_penetraton_dashad_line::after {
+        right: 22px;
+    } */
+
+  /* .penetration_dashad_line_three::before {
+        top: 13%;
+        left: 22px;
+    }
+
+    .penetration_three_box::before {
+        left: 15%;
+        top: 65%;
+    } */
+
+  /* .technical_penetraion_first_box::before {
+        left: 14.5%;
+    } */
+
+  /* .penetration_four_dashad_line::after,
+    .penetration_four_dashad_line::before {
+        right: 22px;
+        top: 15%;
+    } */
+
+  /* .technical_solution_dashad_line::after {
+        top: 25.2%;
+        right: 22px;
+    } */
+
+  .technical_solution_dashad_line::before {
+    right: 22px;
+  }
+
+  /* .solution_line_three::after,
+    .solution_line_three::before {
+        top: 12%;
+        left: 23px;
+    } */
+
+  /* .wireless_dashad_line_three::before,
+    .wireless_dashad_line_three::after,
+    .wireless_dashad_line_five::before,
+    .wireless_dashad_line_five::after,
+    .penetration_dashad_line_three::after {
+        left: 22px;
+    } */
+  .slider_content {
+    max-width: 461px;
+    padding: 77px 15px;
+  }
+
+  .carousel-1_desktop {
+    max-height: 600px;
+  }
+
+  .footer_social_outer {
+    margin-top: 20px;
+  }
+
+  .our-proprietary:before {
+    background-size: 34%;
+    top: 5%;
+  }
+
+
+  .our-expertise {
+    margin-top: 30px;
+  }
+
+  .our-expertise-section {
+    margin-top: 50px;
+  }
+
+  .main_title {
+    font-size: 30px;
+    margin-bottom: 15px;
+    line-height: 35px;
+  }
+
+  .about_main_title {
+    font-size: 30px;
+    line-height: 35px;
+  }
+
+  .sub_title {
+    font-size: 20px;
+    margin: 20px 0;
+  }
+
+  .about_outer .about_desc {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  /* .service {
+    margin-bottom: 15px;
+  } */
+
+  .slide_desc {
+    margin: 20px 0 !important;
+  }
+
+  .app_btn_outer,
+  .google_btn_outer {
+    max-width: 150px;
+  }
+
+  .about_main {
+    margin-top: 50px;
+  }
+
+  .about_outer {
+    padding: 20px 0px 0px 0px;
+  }
+
+  .about_outer .feature-btn-outer {
+    margin-top: 30px !important;
+  }
+
+  .product_desc h1 {
+    font-size: 20px;
+  }
+
+  .tailored_strategies {
+    padding: 25px 20px;
+  }
+
+  .why_us_blog_item {
+    margin-bottom: 20px;
+  }
+
+  .products+.products>div {
+    margin-top: 0;
+  }
+
+  .product_outer {
+    padding: 30px 20px;
+  }
+
+  .product_desc .feature-btn-outer {
+    margin-top: 20px !important;
+  }
+
+  .download_app p {
+    margin: 30px 0 !important;
+  }
+
+  .mt-160 {
+    margin-top: 80px;
+  }
+
+  .footer .row div {
+    /* justify-content: center !important; */
+    /* text-align: center; */
+  }
+
+  .footer .row div .navbar-brand {
+    justify-content: center !important;
+  }
+
+  .footer .footer_social {
+    margin-bottom: 30px;
+  }
+
+  .technical_img {
+    height: 280px;
+    object-fit: cover;
+  }
+
+  /* .dashad_line::after,
+    .dashad_line::before {
+        right: -28px;
+    } */
+
+  .discovery_first_box::before,
+  .discovery_three_box::before {
+    left: 18%;
+    top: 62%;
+  }
+
+  .discovery_second_box::after {
+    width: 61%;
+    left: 34%;
+    bottom: -61%;
+  }
+
+  .lock_img {
+    bottom: 97%;
+    left: -3%;
+    width: 60%;
+  }
+  .other_pluse_right_img {
+    right: 34%;
+    bottom: 3%;
+}
+  .discovery_box,
+  .api_box,
+  .wireless_box,
+  .it_general_box,
+  .compliance_cyber_box,
+  .other_service_box,.other_staff_service_box,.other_phising_service_box,.other_deep_box,.other_party_box {
+    padding: 60px 40px 60px;
+  }
+  .other_third_party_first_box::before {
+    left: 21.2%;
+    top: 63%;
+}
+.other_third_party_second_box::before {
+  left: 16%;
+  top: 56%;
+}
+.other_social_media_pluse_img {
+  bottom: 2%;
+  left: 3%;
+}
+  .other_deep_first_box::before {
+    left: 23%;
+    top: 73%;
+}
+  .other_phising_first_box::before, .other_phising_three_box::before {
+    left: 22.5%;
+}
+.other_phising_second_box::before {
+  left: 33.5%;
+}
+  .other_third_risk_first_box::before {
+    left: 19%;
+    top: 55%;
+  }
+
+  .other_third_risk_second_box::before {
+    left: 28%;
+    top: 59%;
+  }
+
+  .other_third_risk_first_box::before {
+    left: 19%;
+    top: 62%;
+  }
+
+  /* .dashad_line_three::after,
+    .dashad_line_three::before {
+        left: 23px;
+    } */
+
+  .discovery_first_box::after {
+    left: -5%;
+    top: 76%;
+  }
+
+  /* .dashad_line::after,
+    .dashad_line::before {
+        right: 22px;
+    } */
+
+  .discovery_fore_box::before {
+    width: 15%;
+    left: 50%;
+  }
+
+  /* .technical_web_dashad_line::after {
+        top: 17%;
+        right: 22px;
+    } */
+
+  /* .technical_web_dashad_line::before {
+        top: 16.5%;
+        right: 22px;
+    } */
+
+  .technical_web_first_box::before {
+    top: 66%;
+    left:10%;
+  }
+
+  .technical_mob_first_box::before {
+    left: 17.4%;
+    top: 65%;
+  }
+
+  .technical_web_second_box::before {
+    left: 24%;
+    top: 60%;
+  }
+  .technical_mob_second_box::before {
+    top: 62%;
+    left: 37%;
+}
+  .technical_review_first_box::before {
+    left: 16.5%;
+    top: 68%;
+  }
+
+  .technical_review_second_box::before {
+    left: 9%;
+    top: 71%;
+  }
+
+  .technical_review_three_box::before {
+    left: 15%;
+    top: 61%;
+  }
+
+  .triangle_firewall {
+    right: 34%;
+  }
+
+  .technical_firewall_pluse_left {
+    left: 0%;
+  }
+
+  /* .api_dashad_line_three::after {
+        left: 22px;
+        top: 14.2%;
+    }
+
+    .api_dashad_line_three::before {
+        top: 13%;
+        left: 22px;
+    } */
+
+  .api_second_box::after {
+    width: 68%;
+    bottom: -74%;
+  }
+
+  .wireless_first_box::before {
+    left: 11%;
+    top: 77%;
+  }
+
+  .wireless_second_box::before {
+    left: 19%;
+    bottom: -51%;
+    width: 52%;
+  }
+
+  .wireless_three_box::after {
+    left: 12%;
+    bottom: -58%;
+  }
+
+  .api_fore_box::after {
+    left: 33%;
+  }
+
+  /* 
+    .technical_red_dashad_line::after {
+        right: 23px;
+    }
+
+    .technical_red_dashad_line::before {
+        right: 23px;
+    } */
+
+  .technical_redteam_first_box::before {
+    left: 16.4%;
+    top: 57%;
+  }
+
+  /* 
+    .technical_cloud_dashad_line::after,
+    .technical_cloud_dashad_line::before {
+        right: 22px;
+    } */
+
+  .technical_cloud_first_box::before {
+    left: 13.5%;
+    top: 61%;
+  }
+
+  .technical_cloud_second_box::before {
+    left: 33%;
+  }
+
+  .contact_text_img h3 {
+    font-size: 30px;
+  }
+
+  .contact_text_img h5 {
+    font-size: 20px;
+    margin-bottom: 0px;
+  }
+}
+
+@media (max-width:576px) {
+
+  .other_third_risk_first_box::before,
+  .other_third_risk_second_box::before,
+  .other_four_risk_three_box::before,
+  .other_forensic_first_box::before,.other_services_24x7_first_box::before,.other_services_24x7_second_box::after,.other_services_24x7_three_box::before,.other_staff_first_box::before,.other_phising_first_box::before, .other_phising_three_box::before,.other_phising_second_box::before,.other_data_first_box::before,.other_deep_second_box::before,.other_deep_first_box::before,.other_ot_iot_first_box::before,.other_ot_iot_second_box::before,.other_social_media_first_box::before,.other_social_media_second_box::before ,.other_third_party_first_box::before,.other_third_party_second_box::before,.technical_mob_second_box::before,.wireless_fore_box::after,.compliance_hippa_first_box::before,.compliance_hippa_second_box::before,.compliance_hippa_three_box::before,.compliance_iso_2_first_box::before,.compliance_iso_4_three_box::before,.it_general_first_box::before,.it_general_second_box::after, .it_general_five_box::before, .it_general_three_box::after,.it_general_fore_box::after{
+    content: none;
+  }
+}
+
+@media (max-width: 575px) {
+
+  .wireless_first_box::before,
+  .wireless_second_box::before,
+  .wireless_three_box::after,
+  .api_fore_box::after,
+  .technical_redteam_first_box::before,
+  .technical_red_second_box::before,
+  .technical_cloud_first_box::before,
+  .technical_cloud_second_box::before,
+  .technical_solution_first_box::before,
+  .technical_solution_second_box::before,
+  .solution_three_box::before,
+  .technical_solution_pluse_left,
+  .technical_penetraion_first_box::before,
+  .technical_penetration_second_box::before,
+  .penetration_three_box::before,
+  .discovery_first_box::before,
+  .discovery_three_box::before,
+  .discovery_second_box::after,
+  .technical_review_first_box::before,
+  .technical_review_second_box::before,
+  .technical_review_three_box::before,
+  .api_second_box::after,
+  .api_three_box::after,
+  .api_five_box::before,
+  .discovery_first_box::before,
+  .discovery_second_box::after,
+  .discovery_three_box::before,
+  .technical_mob_first_box::before,
+  .technical_review_three_box::before,
+  .technical_review_first_box::before,
+  .technical_review_second_box::before,
+  .api_second_box::after,
+  .api_three_box::after,
+  .api_fore_box::after,
+  .api_five_box::before,
+  .wireless_first_box::before,
+  .wireless_second_box::before,
+  .wireless_three_box::after,
+  .technical_redteam_first_box::before,
+  .technical_mob_pluse_left,
+  .technical_cloud_first_box::before,
+  .technical_cloud_second_box::before,
+  .compliance_iso_first_box::before,
+  .compliance_iso_second_box::after,
+  .compliance_three_box::after,
+  .compliance_fore_box::after,
+  .compliance_iso_first_box::after,
+  .technical_api_pluse_right,
+  .compliance_soc_first_box::before,
+  .compliance_soc_second_box::before,
+  .compliance_soc_three_box::before,
+  .technical_pluse_img,
+  .compliance_hittrust_first_box::before,
+  .compliance_hittrust_three_box::before,
+  .compliance_hittrust_second_box::before,
+  .compliance_hippa_first_box::before,
+  .compliance_hippa_second_box::before,
+  .compliance_hippa_three_box::before,
+  .compliance_iso_2_first_box::before,
+  .compliance_iso_4_three_box::before,
+  .it_general_second_box::after,
+  .it_general_five_box::before,
+  .it_general_three_box::after,
+  .it_general_fore_box::after,
+  .it_general_first_box::before,
+  .compliance_cyber_first_box::before,
+  .compliance_cyber_second_box::before,
+  .it_general_first_box::after,
+  .other_pluse_left,
+  .compliance_pluse_img,
+  .other_forensic_pluse_left,
+  .other_forensic_pluse_right_img ,.other_staff_pluse_left,.other_pluse_right_img,.other_data_first_box::after,.other_data_pluse_right_img,.other_ot_iot_pluse_img,.other_social_media_pluse_img {
+    content: none;
+    display: none;
+  }
+
+  .discovery_first_box,
+  .discovery_second_box,
+  .discovery_three_box,
+  .technical_web_first_box,
+  .technical_web_second_box,
+  .technical_review_first_box,
+  .technical_review_second_box,
+  .technical_review_three_box,
+  .technical_firewall_left_box,
+  .technical_firewall_right_box,
+  .api_second_box,
+  .api_five_box,
+  .api_three_box,
+  .api_fore_box,
+  .wireless_first_box,
+  .wireless_second_box,
+  .wireless_three_box,
+  .technical_redteam_first_box,
+  .technical_red_second_box,
+  .technical_cloud_first_box,
+  .technical_cloud_second_box,
+  .technical_solution_first_box,
+  .technical_solution_second_box,
+  .solution_three_box,
+  .technical_penetraion_first_box,
+  .technical_penetration_second_box,
+  .penetration_three_box,
+  .compliance_iso_first_box,
+  .compliance_iso_second_box,
+  .compliance_three_box,
+  .compliance_soc_first_box,
+  .compliance_soc_second_box,
+  .compliance_soc_three_box,
+  .compliance_hittrust_first_box,
+  .compliance_hittrust_second_box,
+  .compliance_hittrust_three_box,
+  .compliance_hippa_first_box,
+  .compliance_hippa_second_box,
+  .compliance_hippa_three_box,
+  .compliance_iso_2_first_box,
+  .it_general_first_box,
+  .it_general_second_box,
+  .it_general_three_box,
+  .it_general_fore_box,
+  .it_general_five_box,
+  .compliance_cyber_first_box,
+  .compliance_cyber_second_box,
+  .other_third_risk_first_box,
+  .other_third_risk_second_box,
+  .other_four_risk_three_box,
+  .other_forensic_first_box,.other_services_24x7_first_box, .other_services_24x7_second_box,.other_services_24x7_three_box,.other_staff_first_box,.other_phising_second_box, .other_phising_first_box, .other_phising_three_box,.other_data_first_box,.other_deep_second_box,.other_ot_iot_first_box, .other_ot_iot_second_box,.other_social_media_first_box,.other_social_media_second_box,.other_third_party_first_box,.other_third_party_second_box,.technical_mob_second_box,.wireless_fore_box {
+    padding: 0px 0 50px 0;
+  }
+  .mobile_screen_text{
+    padding-top: 15px; 
+  }
+  .menu_toggle_btn {
+    margin-right: 5px;
+}
+.menu_block ul li {
+  padding: 15px 20px;
+}
+.home_menu_block {
+  padding: 0 20px 0 20px;
+}
+.menu_block ul li a {
+  padding: 0px 0;
+}
+.menu_block {
+  padding: 90px 0px 30px;
+}
+  .our-proprietary-item {
+    width: 100%;
+    margin: 10px 0 !important;
+  }
+
+  .technical_firewall_pluse_left {
+    top: 102%;
+  }
+
+  .breadcrumb_blog {
+    margin-top: 80px;
+  }
+
+  .blog-content {
+    padding: 25px 25px;
+  }
+  .faq_accordion button .icon::after {
+    top: 3.5px;
+    left: 9.5px;
+    width: 2px;
+    height: 12px;
+}
+.faq_accordion button .icon::before {
+  top: 9px;
+  left: 5px;
+  width: 12px;
+  height: 2px;
+}
+.our-expertise>.our-expertise-content-outer:nth-child(1) .our-expertise-icon .promo-title {
+  height: 118px;
+  padding-top: 0px;
+}
+.our-expertise-icon .promo-title {
+  height: 160px;
+}
+  /* .dashad_line::after,
+    .dashad_line::before {
+        right: -17px;
+    } */
+
+  /* .dashad_line_three::after,
+    .dashad_line_three::before {
+        left: -16px;
+    } */
+
+  .discovery_fore_box::before {
+    left: 40%;
+  }
+
+  /* .technical_web_dashad_line::after {
+        top: 24%;
+        right: -18px;
+    }
+
+    .technical_web_dashad_line::before {
+        top: 23.5%;
+        right: -18px;
+    } */
+
+  .technical_mob_first_box::before {
+    left: 17.4%;
+    top: 73%;
+    width: 85%;
+  }
+
+  .technical_web_second_box::before {
+    left: 15%;
+    top: 67%;
+    width: 85%;
+  }
+
+  /* 
+    .technical_review_first_box::before {
+        width: 70%;
+        top: 68%;
+    }
+
+    .technical_review_second_box::before {
+        left: 10%;
+    }
+
+    .technical_review_three_box::before {
+        left: 10%;
+        top: 71%;
+        width: 80%;
+    } */
+
+  .triangle_firewall {
+    right: 39%;
+  }
+
+  /* .api_dashad_line_three::after {
+        left: -16px;
+        top: 23.2%;
+    } */
+  /* 
+    .api_dashad_line_three::before {
+        top: 22%;
+        left: -16px;
+    } */
+
+  .api_second_box::after {
+    width: 83%;
+    bottom: -78%;
+    left: 7%;
+  }
+
+  .api_three_box::after {
+    width: 85%;
+    left: 8%;
+  }
+
+  .api_fore_box::after {
+    left: 9%;
+  }
+
+  .api_five_box::before {
+    left: 8%;
+    top: 79%;
+    width: 92%;
+  }
+
+  .our_leadership_background_2,
+  .our_leadership_harsh_2 {
+    top: 44%;
+  }
+
+  .our_leadership_2 h3 {
+    font-size: 34px;
+    line-height: 40.79px;
+    margin-bottom: 15px;
+  }
+
+  .our_leadership_2 h5 {
+    font-size: 20px;
+    line-height: 19.8px;
+    margin-bottom: 10px;
+  }
+
+  .our_leadership_2 p {
+    font-size: 18px;
+    line-height: 21px;
+    margin: 0px;
+  }
+
+  .our_empowering {
+    margin-top: 50px;
+  }
+
+  .contact_us_form {
+    margin-top: 115px !important;
+  }
+
+  .why_us_blog_lock {
+    left: -30%;
+    top: -10%;
+    width: 400px;
+  }
+
+  .dashad_line .justify-content-center {
+    justify-content: center !important;
+  }
+
+  .wireless_five_box,
+  .technical_firewall_right_box:last-child,.technical_web_three_box {
+    padding: 0px;
+  }
+
+  .carousel-caption {
+    top: 0px;
+  }
+
+  .carousel-1_desktop {
+    max-height: unset;
+    height: 600px;
+  }
+
+  .slide_title {
+    line-height: 44px;
+  }
+
+  .slide_desc {
+    margin: 12px 0 !important;
+    line-height: 25px;
+  }
+
+  .slider_outer {
+    margin-top: 85px;
+  }
+
+  /*.technical_penetraton_dashad_line::before,
+    .technical_penetraton_dashad_line::after {
+        right: 134px;
+        top: -2%;
+    }
+
+    .penetration_four_dashad_line::after,
+    .penetration_four_dashad_line::before {
+        right: 135px;
+        top: -2%;
+    }
+
+    .penetration_dashad_line_three::after {
+        top: 0%;
+        left: 135px;
+    }
+
+    .penetration_dashad_line_three::before {
+        top: -1%;
+        left: 145px;
+    }
+
+    .solution_line_three::after,
+    .solution_line_three::before {
+        top: -1%;
+        left: 137px;
+    }
+
+    .technical_solution_dashad_line::before {
+        top: -1%;
+        right: 146px;
+    }
+
+    .technical_solution_dashad_line::after {
+        top: 0.2%;
+        right: 134px;
+    }
+
+    .technical_red_dashad_line::before {
+        top: -2%;
+    }
+*/
+
+  /* .carousel-1_desktop {
+    display: none;
+  } */
+
+  .carousel-1_mobile {
+    display: block !important;
+    margin-top: -10%;
+  }
+
+  .app_btn_outer,
+  .google_btn_outer {
+    max-width: 120px;
+    margin-right: 5px;
+  }
+
+  /* .carousel-caption {
+    position: unset;
+    text-align: center;
+    margin-top: 25px;
+  } */
+
+  .our-expertise-content {
+    font-size: 17px;
+  }
+
+  .main_title {
+    font-size: 23px;
+  }
+
+  .our-expertise-content-outer:nth-child(2) {
+    padding: 50px 0;
+  }
+
+  /* .slide_title {
+    font-size: 35px;
+  }
+
+  .slide_title {
+    color: #005a39;
+  } */
+
+  /* .slide_desc {
+    color: black;
+  } */
+
+  .btn.feature-btn {
+    padding: 13px 30px;
+    font-size: 15px;
+  }
+
+  .title_outer {
+    margin-top: 20px;
+  }
+
+  .about_outer {
+    padding: 0px 20px 20px 20px;
+  }
+
+  .why_us_padding {
+    padding: 0px 0 0 0;
+  }
+
+  .about_outer {
+    font-size: 20px;
+    margin: 0px 0px;
+  }
+
+  .product_desc {
+    text-align: center;
+  }
+
+  .faqs_outer .accordion-header button {
+    font-size: 20px !important;
+  }
+
+  .faqs_outer .accordion .accordion-item {
+    padding: 20px;
+  }
+
+  .products.product3 {
+    margin-top: 50px;
+  }
+
+  /*.discovery_first_box::after {
+        width: 20%;
+        height: 20%;
+    }
+
+    .discovery_first_box,
+    .discovery_second_box,
+    .discovery_three_box,
+    .technical_web_first_box,
+    .technical_web_second_box,
+    .technical_review_first_box,
+    .technical_review_second_box,
+    .technical_review_three_box,
+    .api_second_box,
+    .api_three_box,
+    .api_fore_box,
+    .api_five_box,
+    .wireless_second_box,
+    .wireless_three_box,
+    .technical_redteam_first_box,
+    .technical_cloud_first_box,
+    .technical_cloud_second_box,
+    .technical_penetraion_first_box,
+    .technical_penetration_second_box,
+    .penetration_three_box {
+        padding: 0 0 40px 0;
+    }*/
+
+  .api_six_box {
+    padding: 0 0 0px 0;
+  }
+
+  .discovery_box,
+  .api_box,
+  .wireless_box,
+  .it_general_box,
+  .other_service_box,.other_staff_service_box,.other_phising_service_box,.other_deep_box,.other_party_box,.compliance_cyber_box {
+    padding: 50px 30px 50px;
+  }
+  .float_text {
+    float: none;
+}
+  .discovery_first_box::after {
+    content: none;
+  }
+
+  /*  .dashad_line::after,
+    .dashad_line::before {
+        right: 130px;
+        width: 220px;
+    }
+
+    .discovery_border_second::after {
+        top: -2.4%;
+        left: -6px;
+        height: 217px;
+    }
+
+    .dashad_line_three::after {
+        left: 135px;
+    }
+
+    .dashad_line_three::before {
+        left: 140px;
+        width: 211px;
+    }
+
+    .discovery_border_three::after {
+        height: 218px;
+        top: -2%;
+    }*/
+
+  .intelligence_text,
+  .identify_title,
+  .identify_text,
+  .review_text,.penetration_text {
+    text-align: center !important;
+  }
+
+  /*
+    .discovery_border_fore::after {
+        top: -2%;
+        left: -2%;
+        height: 218px;
+    }*/
+
+  .triangle_firewall,
+  .discovery_fore_box::before,
+  .technical_web_first_box::before,
+  .technical_web_second_box::before {
+    content: none;
+    display: none;
+  }
+
+  .lock_img {
+    bottom: 93%;
+    left: -2%;
+    width: 50%;
+  }
+
+  /*
+    .technical_web_dashad_line::after {
+        top: -1%;
+        right: 134px;
+    }
+
+    .technical_web_dashad_line::before {
+        top: -2%;
+        right: 134px;
+        width: 222px;
+    }
+
+    .technical_mob_three_border::after {
+        top: -2%;
+        height: 218px;
+    }*/
+
+  .technical_pluse_img {
+    right: 5%;
+    bottom: 2%;
+  }
+
+  .technical_mob_pluse_left {
+    top: 40%;
+  }
+
+  .technical_mob_first_box {
+    padding: 0 0 50px 0;
+  }
+
+  .technical_review_pluse_left {
+    top: 24%;
+    left: 4%;
+  }
+
+  /*    .technical_review_dashad_second::before {
+        left: -5px;
+        width: 219px;
+    }
+
+    .technical_review_three_border::after {
+        top: 0%;
+        height: 214px;
+    }
+
+    .technical_review_dashad_line_three::before {
+        width: 220px;
+    }
+
+    .technical_review_three_border::before {
+        width: 213px;
+    }*/
+
+  .firewall_border_solid {
+    margin-left: 0px;
+  }
+
+  /*    .technical_firewall_dashad_second::before {
+        left: -2px;
+        width: 214px;
+    }
+
+    .firewall_border_solid::before {
+        left: -2px;
+        width: 217px;
+    }
+
+    .firewall_border_solid::after {
+        top: -2%;
+        height: 218px;
+    }*/
+
+  .technical_firewall_pluse_left {
+    top: 42%;
+  }
+
+  /* .api_border_fore::before {
+        left: -5px;
+        width: 220px;
+    }
+
+    .api_border_fore::after {
+        top: -2%;
+        left: -5px;
+        height: 214px;
+    }
+
+    .api_dashad_line_three::before {
+        top: -1%;
+        left: 135px;
+        width: 216px;
+    }
+
+    .api_dashad_line_three::after {
+        left: 130px;
+        top: -1%;
+    }
+
+    .wireless_dashad_line_three::before {
+        top: -1.5%;
+        left: 136px;
+        width: 220px;
+    }
+
+    .wireless_dashad_line_three::after {
+        top: -0.5%;
+        left: 136px;
+    }
+
+    .wireless_dashad_line_five::before {
+        top: 3%;
+        left: 131px;
+        width: 220px;
+    }
+
+    .wireless_dashad_line_five::after {
+        left: 131px;
+    }
+
+    .technical_red_dashad_line::before {
+        right: 135px;
+        width: 221px;
+    }
+
+    .technical_red_dashad_line::after {
+        top: -1%;
+        right: 135px;
+        height: 218px;
+    }
+
+    .technical_cloud_dashad_line::before {
+        width: 222px;
+        right: 134px;
+        top: -2%;
+    }
+
+    .technical_cloud_dashad_line::after {
+        right: 134px;
+        top: 1%;
+    }*/
+
+  .why_us_banner .why_us_btn {
+    margin-top: 50px;
+    font-size: 20px;
+    padding: 16px 35px;
+  }
+
+  .header_right {
+    padding-bottom: 2px;
+  }
+
+  .header_logo {
+    width: 80%;
+  }
+
+  .contact_form {
+    padding: 30px;
+  }
+
+  .form-group label {
+    margin-bottom: 8px;
+  }
+
+  .input_text {
+    font-size: 17px;
+  }
+
+  .service-btn {
+    padding: 10px 10px;
+    font-size: 17px;
+  }
+
+  .submit-btn {
+    padding: 18px 20px;
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .our-proprietary:before {
+    background-size: 45%;
+    top: 11%;
+  }
+
+  .title_des.light {
+    margin: 20px auto;
+  }
+
+  .blog-button {
+    font-size: 15px;
+  }
+
+  .blog_detail {
+    font-size: 16px;
+  }
+
+  .blog_name {
+    font-size: 20px;
+  }
+
+  .location_title {
+    font-size: 20px;
+  }
+
+  .location_text,
+  .fax_text {
+    font-size: 15px;
+  }
+
+  .service-options {
+    flex-wrap: wrap;
+  }
+
+  .form-group {
+    margin-bottom: 20px;
+  }
+
+  .founder_text {
+    margin-top: 50px;
+  }
+
+  .our_leadership_2 h3,
+  .main_title {
+    font-size: 30px;
+    line-height: 35.79px;
+  }
+
+  .member_team_detail.lato {
+    font-size: 16px;
+  }
+
+  .member_team_name {
+    font-size: 20px;
+  }
+
+  .slider_content {
+    max-width: 100%;
+  }
+
+  .slider_content:after {
+    right: 0%;
+    width: 100%;
+  }
+}
+
+@media (max-width: 450px) {
+  .breadcrumb_blog {
+    margin-top: 65px;
+  }
+
+  .contact_us_form {
+    margin-top: 100px !important;
+  }
+
+  .main_lock {
+    right: -20%;
+    width: 274px;
+  }
+
+  .slide_title {
+    line-height: 35px;
+    font-size: 35px;
+  }
+
+  .about_desc_text,
+  .why_us_text {
+    font-size: 19px;
+    margin-top: 18px;
+    line-height: 24px;
+  }
+
+  .slide_desc {
+    margin: 15px 0 !important;
+    line-height: 23px;
+    font-size: 18px;
+  }
+
+  .slider_outer {
+    margin-top: 85px;
+  }
+
+  .title_outer {
+    margin-top: 0px;
+  }
+
+  .flex_col_row {
+    margin-top: 85px !important;
+  }
+
+  .sub_title {
+    font-size: 17px;
+    margin-bottom: 10px;
+  }
+
+  .brief_title,
+  .security_title {
+    font-size: 18px;
+    line-height: 22.2px;
+    margin: 10px 0 20px 0;
+  }
+
+  .our-expertise-icon .promo-title {
+    width: 110px;
+  }
+
+  .our-expertise-content {
+    padding-left: 25px;
+  }
+
+  .technical_services_main_title {
+    font-size: 25px;
+    line-height: 32.84px;
+  }
+
+  .identify_title,
+  .review_text,
+  .penetration_text {
+    font-size: 18px;
+    margin-bottom: 10px !important;
+  }
+
+  .technical_mob_pluse_left,
+  .technical_review_pluse_left,
+  .technical_firewall_pluse_left {
+    display: none;
+  }
+
+  .technical_title_line {
+    width: 175px;
+  }
+
+  .technical_mob_title {
+    font-size: 17px;
+    line-height: 20px;
+    margin: 0 0 20px 0;
+  }
+
+  .header_logo {
+    width: 80%;
+  }
+
+  .about_outer {
+    padding: 10px 0px 0 0;
+  }
+
+  .why_us_blog_content {
+    padding: 25px 25px;
+  }
+
+  .why_us_blog_detail {
+    font-size: 17px;
+  }
+
+  .why_us_blog_item .why_us_blog_name {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+
+  .why_us_banner .why_us_btn {
+    font-size: 14px;
+    padding: 14px 28px;
+  }
+
+  .contact_form {
+    padding: 20px;
+  }
+
+  .contact_text_img h3 {
+    font-size: 26px;
+    line-height: 45.79px;
+  }
+
+  .contact_text_img h5 {
+    font-size: 18px;
+  }
+
+  .our_leadership_background_2,
+  .our_leadership_background {
+    display: none;
+  }
+
+  .our_leadership_background_2,
+  .our_leadership_harsh_2 {
+    top: 51%;
+  }
+
+  .our_empowering {
+    padding: 350px 25px 30px 25px;
+    flex-direction: column-reverse;
+  }
+
+  .founder_ceo_box {
+    padding: 370px 25px 0px 25px;
+  }
+
+  .founder_text_2,
+  .our_empowering_text {
+    font-size: 15px;
+    margin: 5px;
+  }
+}
+
+@media (max-width: 375px) {
+  .blog_page_img {
+    min-height: 260px;
+  }
+
+  .about_main_title {
+    font-size: 26px;
+    line-height: 31px;
+  }
+
+  .discovery_box,
+  .api_box,
+  .wireless_box,
+  .it_general_box,
+  .compliance_cyber_box,
+  .other_service_box,.other_staff_service_box,.other_phising_service_box,.other_deep_box,.other_party_box {
+    padding: 50px 20px 30px;
+  }
+  .footer:before {
+    bottom: 280px;
+}
+  .blog-content {
+    padding: 20px 20px;
+  }
+
+  .Vulnerability_title {
+    font-size: 16px;
+    line-height: 21px;
+  }
+
+  .it_text,
+  .Vulnerability_color {
+    font-size: 17px;
+  }
+
+  .breadcrumb .breadcrumb_title {
+    font-size: 17px;
+  }
+
+  .technical_img {
+    height: 230px;
+    object-fit: cover;
+  }
+
+  .vapt_text {
+    font-size: 16px;
+  }
+
+  .technical_pluse_img {
+    display: none;
+  }
+
+  .home_menu_block {
+    padding: 0 21px 0 21px;
+  }
+
+  #navbarCollapse .nav-item .dropdown-menu a.dropdown-item {
+    padding: 10px 21px;
+  }
+
+  .founder_ceo_box {
+    padding: 310px 25px 0px 25px;
+  }
+
+  .our_empowering {
+    padding: 245px 25px 30px 25px;
+  }
+
+  .our_leadership_2 h5 {
+    font-size: 18px;
+  }
+
+  .our_leadership_2 h3,
+  .main_title {
+    font-size: 24px;
+    line-height: 27.79px;
+  }
+
+  .our_leadership_2 p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .our_leadership_2 {
+    padding: 0 10px 0 10px;
+  }
+
+  .about_outer .about_desc {
+    font-size: 17px;
+    line-height: normal;
+    margin: 0px 0px 10px 0px !important;
+  }
+
+  .our_leadership_background_2,
+  .our_leadership_harsh_2 {
+    top: 46%;
+  }
+
+  .founder_text {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 320px) {
+
+  .intelligence_text,
+  .identify_text {
+    font-size: 17px;
+    line-height: 21px;
+  }
+
+  .discovery_border_fore::after {
+    /*        height: 217px;*/
+  }
+
+  .accordion button .icon {
+    top: 5px;
+    right: 0;
+  }
+
+  .technical_services_title {
+    font-size: 17px;
+  }
+
+  .accordion .accordion-item {
+    border-radius: 8px;
+    margin: 14px 0 0;
+    padding: 13px 20px;
+  }
+
+  .accordion button .accordion-title {
+    vertical-align: middle;
+  }
+
+  .technical_services_main_title {
+    font-size: 22px;
+    line-height: 27.84px;
+  }
+}

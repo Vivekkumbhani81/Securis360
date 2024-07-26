@@ -1,0 +1,888 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Securis360 - Technical-Network Architecture Review</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="" name="keywords" />
+    <meta content="" name="description" />
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon" />
+    <!-- Google Web Fonts -->
+    <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family:wght@400..900&display=swap" rel="stylesheet">
+        <link href="font/.css" rel="stylesheet" /> -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Tomorrow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link href="font/fontawesome/css/all.min.css" type="text/css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet" />
+    <!-- Libraries Stylesheet -->
+    <link href="lib/animate/animate.min.css" rel="stylesheet" />
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/responsive.css">
+
+</head>
+
+<body class="blogpage">
+    <!-- Spinner Start -->
+    <div id="spinner"
+        class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-grow text-primary" role="status"></div>
+    </div>
+    <!-- Spinner End -->
+
+    <!-- Header Start-->
+    <div class="in_header_wrapper">
+        <header>
+            <div class="container">
+                <div class="in_header_block">
+                    <div class="logo_hold">
+                        <a href="index.html">
+                            <img src="img/logo.png" alt="logo">
+                        </a>
+                    </div>
+                    <div class="menu_block">
+                        <div class="menu_list">
+                            <ul>
+                                <li class="menu_item">
+                                    <div class="mobile_arrow">
+                                        <a href="javascript:;">
+                                            SERVICES
+                                        </a>
+                                        <i class="fa-solid fa-chevron-down"></i>
+                                    </div>
+                                    <div class="home_mega">
+                                        <div class="home_mega_spach mobile_screen_height">
+                                            <div class="home_mega_menu">
+                                                <div class="home_menu_block">
+                                                    <p>TECHNICAL SERVICES</p>
+                                                    <ul>
+                                                        <li><a href="technical-vapt.html">VAPT</a></li>
+                                                        <li><a href="technical-web.html">Website Application
+                                                                Security Testing</a></li>
+                                                        <li><a href="technical-mob.html">Mobile
+                                                                Application Security Testing</a></li>
+                                                        <li><a href="technical_architecture_review.html">Network
+                                                                Architecture
+                                                                Review</a></li>
+                                                        <li><a href="technical_firewall_review.html">Firewall Security
+                                                                Review</a>
+                                                        </li>
+                                                        <li><a href="technical_api_security.html">API Security
+                                                                Assessment</a>
+                                                        </li>
+                                                        <li><a href="technical_wireless_device_testing.html">Wireless
+                                                                Device
+                                                                Security Testing</a>
+                                                        </li>
+                                                        <li><a href="technical_red_team.html">External and Internal Red
+                                                                Team
+                                                                Assessment</a>
+                                                        </li>
+                                                        <li><a href="technical_cloud_security.html">Cloud Security
+                                                                Testing</a>
+                                                        </li>
+                                                        <li><a href="technical_solution_efficacy.html">Solution Efficacy
+                                                                Review</a>
+                                                        </li>
+                                                        <li><a href="technical_penetration.html">Penetration Testing as
+                                                                a Service
+                                                                (PTaaS)</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="home_menu_block navbar_padding">
+                                                    <p>COMPLIANCE SERVICES</p>
+                                                    <ul>
+                                                        <li><a href="compliance_iso1.html">ISO 27001: 2022</a></li>
+                                                        <li><a href="compliance_soc.html">SOC 2</a></li>
+                                                        <li><a href="compliance_hittrust.html">HITRUST-CSF</a></li>
+                                                        <li><a href="compliance_hippa.html">HIPPA</a></li>
+                                                        <li><a href="compliance_iso_2.html">ISO 27701</a>
+                                                        </li>
+                                                        <li><a href="compliance_gdpr.html">GDPR</a>
+                                                        </li>
+                                                        <li><a href="compliance_dpdp.html">DPDP</a>
+                                                        </li>
+                                                        <li><a href="compliance_iso_3.html">ISO 27017</a>
+                                                        </li>
+                                                        <li><a href="compliance_iso_4.html">ISO 27018</a>
+                                                        </li>
+                                                        <li><a href="compliance_it_general_control.html">IT- General
+                                                                Control
+                                                                Audit</a>
+                                                        </li>
+                                                        <li><a href="compliance_cyber_program.html">Cyber Program
+                                                                Management</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="home_menu_block navbar_padding">
+                                                    <p>OTHER SERVICES</p>
+                                                    <ul>
+                                                        <li><a href="other_services_third_party_risk.html">Third Party
+                                                                Risk
+                                                                Management</a></li>
+                                                        <li><a href="other_services_forensic.html">Forensic Readiness
+                                                                Review</a>
+                                                        </li>
+                                                        <li><a href="other_services_24x7.html">24X7 Security Operations
+                                                                Center</a>
+                                                        </li>
+                                                        <li><a href="other_services_staff.html">Staff Augmentation</a>
+                                                        </li>
+                                                        <li><a href="other_services_employe.html">Employee Awareness
+                                                                Training</a>
+                                                        </li>
+                                                        <li><a href="other_services_phising.html">Phishing
+                                                                Simulation</a>
+                                                        </li>
+                                                        <li><a href="other_services_data.html">Forensic Data Collection
+                                                                And
+                                                                Recovery</a>
+                                                        </li>
+                                                        <li><a href="other_services_deep.html">Deep Web Monitoring</a>
+                                                        </li>
+                                                        <li><a href="other_services_ot_iot.html">OT/IOT Security</a>
+                                                        </li>
+                                                        <li><a href="other_services_social_media.html">Social Media
+                                                                Forensics</a>
+                                                        </li>
+                                                        <li><a href="other_services_source_code.html">Source Code
+                                                                Security
+                                                                Review</a>
+                                                        </li>
+                                                        <li><a href="other_services_third_party.html">Third-Party Vendor
+                                                                Audit
+                                                                Services</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="home_mega_btn">
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="menu_item position-relative ">
+                                    <div class="mobile_arrow">
+                                        <a href="javascript:;">
+                                            ABOUT US
+                                        </a>
+                                        <i class="fa-solid fa-chevron-down"></i>
+                                    </div>
+                                    <div class="home_mega w-auto">
+                                        <div class="home_mega_spach px-3 px-sm-5 pb-3">
+                                            <div class="home_mega_menu">
+                                                <div class="home_menu_block p-0">
+                                                    <ul class="about_us_text">
+                                                        <li><a href="why_us.html">WHY US?</a>
+                                                        </li>
+                                                        <li><a href="our_leadership.html">OUR LEADERSHIP</a>
+                                                        </li>
+                                                        <li class="mb-0"><a class="mb-0" href="our_commitment.html">OUR
+                                                                COMMITMENT</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="home_mega_btn">
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="menu_item">
+                                    <a href="blog.html">
+                                        BLOG
+                                    </a>
+                                </li>
+                            </ul>
+                            <div class="header_join_btn">
+                                <a class="web_btn" href="contactus.html">
+                                    <span>Contact Us</span>
+                                    <!-- <img src="./Assets/images/oval.webp" class="img_oval" alt="Ondemand Logo"> -->
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="menu_toggle_btn">
+                        <span>
+                        </span>
+                        <span>
+                        </span>
+                        <span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </div>
+    <!-- Header Close -->
+
+    <div class="flex_col_row technical_page_bg container-fluid wow fadeIn breadcrumb" data-wow-delay="0.1s"
+        style="visibility: visible; animation-delay: 0.1s; animation-name: fadeIn;">
+        <img class="w-100 technical_img" src="img/technical/technical_bg_img.png" alt="Image">
+        <div class="breadcrumb_outer">
+            <div class="container">
+                <div class="row">
+                    <div class="breadcrumb_content">
+                        <h5 class="slideInDown breadcrumb_title lato">TECHNICAL SERVICES</h5>
+                        <div class="technical_title_line"></div>
+                        <h3 class="slideInDown technical_services_main_title">Network Architecture Review</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-xxl-80 mt-sm-5 mt-5">
+        <div class="row">
+            <div class="col-12 col-xl-3 col-lg-3 mb-4">
+                <div class="mobile_faq">
+                    <ul class="technical_services">
+                        <h4 class="technical_services_title">TECHNICAL SERVICES</h4>
+                        <li class="mb-3">
+                            <a class=" vapt_text" href="technical-vapt.html">VAPT</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="technical-web.html">Website Application Security Testing</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="technical-mob.html">Mobile Application Security Testing</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="active vapt_text" href="technical_architecture_review.html">Network Architecture
+                                Review</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="technical_firewall_review.html
+                        ">Firewall Security Review</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="technical_api_security.html">API Security Assessment</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="technical_wireless_device_testing.html">Wireless Device Security
+                                Testing</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="technical_red_team.html">External and Internal Red Team
+                                Assessment</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="technical_cloud_security.html">Cloud Security Testing</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="technical_solution_efficacy.html">Solution Efficacy Review</a>
+                            </a>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="technical_penetration.html">Penetration Testing as a Service
+                                (PTaaS)</a>
+                        </li>
+                    </ul>
+                    <img class="lock_img" src="img/technical/lock_img.png" alt="">
+                    <ul class="technical_services">
+                        <h4 class="technical_services_title">COMPLIANCE SERVICES</h4>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="compliance_iso1.html">ISO 27001: 2022</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="compliance_soc.html">SOC 2</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="compliance_hittrust.html">HITRUST-CSF</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="compliance_hippa.html">HIPPA</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="compliance_iso_2.html">ISO 27701</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="compliance_gdpr.html">GDPR</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="compliance_dpdp.html">DPDP</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="compliance_iso_3.html">ISO 27017</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="compliance_iso_4.html">ISO 27018</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="compliance_it_general_control.html">IT- General Control
+                                Audit</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="compliance_cyber_program.html">Cyber Program Management</a>
+                        </li>
+                    </ul>
+                    <ul class="technical_services">
+                        <h4 class="technical_services_title">OTHER SERVICES</h4>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="other_services_third_party_risk.html">Third Party Risk
+                                Management </a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="other_services_forensic.html">Forensic Readiness Review </a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="other_services_24x7.html">24X7 Security Operations Centre</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="other_services_staff.html">Staff Augmentation</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="other_services_employe.html">Employee Awareness Training</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="other_services_phising.html">Phishing Simulation</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="other_services_data.html">Forensic Data Collection And
+                                Recovery</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="other_services_deep.html">Deep Web Monitoring</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="other_services_ot_iot.html">OT/IOT Security</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="other_services_social_media.html">Social Media Forensics</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="other_services_source_code.html">Source Code Security Review</a>
+                        </li>
+                        <li class="mb-3">
+                            <a class="vapt_text" href="other_services_third_party.html">Third-Party Vendor Audit
+                                Services</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="accordion">
+                    <div class="accordion-item">
+                        <button id="accordion-button-1" aria-expanded="false">
+                            <span class="accordion-title technical_services_title">TECHNICAL SERVICES</span>
+                            <span class="icon" aria-hidden="true"></span>
+                        </button>
+                        <div class="accordion-content">
+                            <ul class="mobile_list mt-4">
+                                <li class="mb-3">
+                                    <a class="active vapt_text" href="technical-vapt.html">VAPT</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="technical-web.html">Website Application Security
+                                        Testing</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="technical-mob.html">Mobile Application Security
+                                        Testing</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="technical_architecture_review.html">Network Architecture
+                                        Review</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="technical_firewall_review.html">Firewall Security
+                                        Review</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="technical_api_security.html">API Security Assessment</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="technical_wireless_device_testing.html">Wireless Device
+                                        Security
+                                        Testing</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="technical_red_team.html">External and Internal Red Team
+                                        Assessment</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="technical_cloud_security.html">Cloud Security
+                                        Testing</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="technical_solution_efficacy.html">Solution Efficacy
+                                        Review</a>
+                                    </a>
+                                <li>
+                                    <a class="vapt_text" href="technical_penetration.html">Penetration Testing as a
+                                        Service
+                                        (PTaaS)
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button id="accordion-button-2" aria-expanded="false">
+                            <span class="accordion-title technical_services_title">COMPLIANCE SERVICES</span>
+                            <span class="icon" aria-hidden="true"></span>
+                        </button>
+                        <div class="accordion-content">
+                            <ul class="mobile_list mt-4">
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="compliance_iso1.html">ISO 27001: 2022</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="compliance_soc.html">SOC 2</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="compliance_hittrust.html">HITRUST-CSF</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="compliance_hippa.html">HIPPA</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="compliance_iso_2.html">ISO 27701</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="compliance_gdpr.html">GDPR</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="compliance_dpdp.html">DPDP</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="compliance_iso_3.html">ISO 27017</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="compliance_iso_4.html">ISO 27018</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="compliance_it_general_control.html">IT- General Control
+                                        Audit</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="compliance_cyber_program.html">Cyber Program
+                                        Management</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button id="accordion-button-3" aria-expanded="false">
+                            <span class="accordion-title technical_services_title">OTHER SERVICES</span>
+                            <span class="icon" aria-hidden="true"></span>
+                        </button>
+                        <div class="accordion-content">
+                            <ul class="mobile_list mt-4">
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="other_services_third_party_risk.html">Third Party Risk
+                                        Management </a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="other_services_forensic.html">Forensic Readiness Review
+                                    </a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="other_services_24x7.html">24X7 Security Operations
+                                        Centre</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="other_services_staff.html">Staff Augmentation</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="other_services_employe.html">Employee Awareness
+                                        Training</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="other_services_phising.html">Phishing Simulation</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="other_services_data.html">Forensic Data Collection And
+                                        Recovery</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="other_services_deep.html">Deep Web Monitoring</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="other_services_ot_iot.html">OT/IOT Security</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="other_services_social_media.html">Social Media
+                                        Forensics</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="other_services_source_code.html">Source Code Security
+                                        Review</a>
+                                </li>
+                                <li class="mb-3">
+                                    <a class="vapt_text" href="other_services_third_party.html">Third-Party Vendor
+                                        Audit
+                                        Services</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-xl-9 col-lg-9">
+                <div class="vulnerability_part">
+                    <p class="technical_mob_title">Securis360 will assess the current network architecture of the
+                        organization and the placement of various components of the architecture. As part of this
+                        activity, Securis360 will:</p>
+                    <h3 class="security_title">A Brief Of The Activities To Be Performed As A Part Of The Assessment Are
+                        :
+                    </h3>
+                    <div class="discovery_box">
+
+                        <div class="technical_review_first_box">
+                            <div class="row justify-content-between gap-4">
+                                <div
+                                    class="my-auto d-flex justify-content-center col-12 col-xl-4 col-lg-4 col-md-4 col-sm-5 ">
+                                    <div class="discovery_border">
+                                        <div class="discovery_box_fill">
+                                            <h3 class="discovery_title_box">PRE-
+                                                REQUISITES</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="my-auto col-12 col-lg-7 col-md-7 col-sm-6">
+                                    <div class="mobile_screen_text Intelligence_inner_text">
+                                        <p class="review_text me-xxl-5 me-sm-0 mb-3">Conduct discussion with the
+                                            identified
+                                            stakeholders to get an initial understanding of the IT landscape.</p>
+                                        <p class="review_text me-xxl-5 me-sm-0 mb-3">Obtain the network architecture and
+                                            IT network
+                                            diagrams.</p>
+                                        <p class="review_text me-xxl-5 me-sm-0 mb-3">Obtain details of the network
+                                            products,
+                                            security products and technologies deployed.</p>
+                                        <p class="review_text me-xxl-5 me-sm-0 mb-3">Obtain details on current
+                                            segregation of
+                                            networks and flow of data between networks.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <img class="technical_review_pluse_left" src="img/technical/pluse_left.png" alt="">
+
+                        <div class="technical_review_second_box">
+                            <div class="row gap-4 gap-sm-0 justify-content-between flex-column-reverse flex-sm-row">
+                                <div class="d-flex justify-content-center col-12 col-xl-4 col-lg-4 col-md-5 col-sm-5">
+                                    <div class="technical_review_dashad_second">
+                                        <div class="discovery_border_second">
+                                            <div class="discovery_box_fill purple_fill">
+                                                <h3 class="discovery_title_box">VULNERABILITY
+                                                    IDENTIFICATION</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="my-auto order-first col-12 col-lg-7 col-md-7 col-sm-6">
+                                    <div class="mobile_screen_text Intelligence_inner_text">
+                                        <p class="identify_title mb-3">Study network layout and its design</p>
+                                        <p class="identify_title">Understand and analyse the ‘correctness’ of the
+                                            placement of such components</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <img class="brief_bg" src="img/technical/center_img.png" alt="">
+
+                        <div class="technical_review_three_box">
+                            <div class="row justify-content-between gap-4">
+                                <div
+                                    class="my-auto gap-4 d-flex justify-content-center col-12 col-xl-4 col-lg-4 col-md-4 col-sm-5">
+                                    <div class="discovery_border_three">
+                                        <div class="discovery_box_fill">
+                                            <h3 class="discovery_title_box">EXPLOIT</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="my-auto col-12 col-lg-7 col-md-7 col-sm-6">
+                                    <div class="mobile_screen_text Intelligence_inner_text">
+                                        <p class="identify_title mb-3">Review the overall IT landscape for appropriate
+                                            network segmentation, placement of point security devices and
+                                            appropriateness of trust relationships / domain membership.</p>
+                                        <p class="identify_title mb-3">Review controls implemented related to remote
+                                            connectivity for work from home scenario</p>
+                                        <p class="identify_title mb-3">Review the rule base of the filtering devices /
+                                            applications (firewalls, host-based filters, wrappers etc) that segregate
+                                            the various network segments.</p>
+                                        <p class="identify_title mb-3">Review the extent of physical segregation of
+                                            specific IT infrastructure components that has a history of security flaws
+                                            based on the provided architecture.</p>
+                                        <p class="identify_title mb-3">Review the management architecture for the entire
+                                            IT landscape and its segregation from less trusted user LANs.</p>
+                                        <p class="identify_title mb-3">Review the existing third-party access provisions
+                                            for providing technical support.</p>
+                                        <p class="identify_title mb-3">Review the extent of redundancy built into the
+                                            architecture to identify potential single points of failure that may impact
+                                            the availability of the network.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="discovery_fore_box">
+                            <div class="dashad_line">
+                                <div class="row justify-content-between gap-4 gap-sm-0 flex-column-reverse flex-sm-row">
+                                    <div class="d-flex justify-content-center col-12 col-xl-4 col-lg-4 col-sm-5">
+                                        <div class="discovery_border_fore">
+                                            <div class="discovery_box_fill purple_fill">
+                                                <h3 class="discovery_title_box">DELIVERABLES</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="my-auto order-first col-12 col-lg-7 col-md-7 col-sm-7">
+                                        <div class="mobile_screen_text Intelligence_inner_text">
+                                            <p class="intelligence_text">Network Architecture Review Report with details
+                                                about the observation, risk, severity, business impact and
+                                                recommendation
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer Start -->
+    <div class="container-fluid mt-80 footer wow fadeIn lato" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-12">
+                    <div class="">
+                        <a href="index.html" class="navbar-brand d-flex align-items-center">
+                            <img src="img/logo-light.png" alt="logo">
+                        </a>
+
+                        <div class="address_outer">
+                            <h2 class="address_title">US HEADQUARTERS:</h2>
+                            <div class="address">
+                                64 Wakefield St, Pittsburgh PA 15213
+                            </div>
+                        </div>
+                        <div class="address_outer">
+                            <h2 class="address_title">GIFT CITY OFFICE:</h2>
+                            <div class="address">
+                                Unit No 85, The Platform, Processing Area, GIFT SEZ, GIFT City, Gandhinagar - 382355
+                                Gujarat
+                            </div>
+                        </div>
+
+                        <div class="address_outer">
+                            <h2 class="address_title">INDIA HEAD OFFICE:</h2>
+                            <div class="address">
+                                Ground Floor, Akshay Apartments, Near Old High Court Lane. Ashram Road. Ahmedabad -
+                                380009
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-lg-8 col-md-12">
+                    <div class="row">
+                        <div class="col-xl-3 col-lg-3 desktop_screen">
+                            <h2 class="toggled">
+                                Navigation
+                            </h2>
+                            <ul class="list-unstyled">
+                                <li><a class="footer_link" href="index.html">Home</a></li>
+                                <li><a class="footer_link" href="technical-vapt.html">Services</a></li>
+                                <li><a class="footer_link" href="our_leadership.html">Our Team</a></li>
+                                <li><a class="footer_link" href="blog.html">Blog</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col-xl-4 col-lg-4 desktop_screen">
+                            <h2 class="toggled">
+                                Services
+                            </h2>
+                            <ul class="list-unstyled">
+                                <li><a class="footer_link" href="technical_penetration.html">Penetration Testing</a>
+                                </li>
+                                <li><a class="footer_link" href="compliance_iso1.html">Compliance Services</a></li>
+                                <li><a class="footer_link" href="technical-mob.html">Mobile Application Security</a>
+                                </li>
+                                <li><a class="footer_link" href="technical-web.html">Web Application Security</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="faq_accordion">
+                            <div class="faq_accordion-item mt-0 bg-transparent border-0 p-0">
+                                <button id="p-0 faq_accordion-button-1 border-bottom-0" aria-expanded="false"><span
+                                        class="faq_accordion-title p-0">Navigation</span><span class="icon"
+                                        aria-hidden="true"></span></button>
+                                <div class="faq_accordion-content">
+                                    <p class="my-3">
+                                        <a class="footer_link" href="index.html">Home</a>
+                                    </p>
+                                    <p class="my-3">
+                                        <a class="footer_link" href="technical-vapt.html">Services</a>
+                                    </p>
+                                    <p class="my-3">
+                                        <a class="footer_link" href="our_leadership.html">Our Team</a>
+                                    </p>
+                                    <p class="my-3">
+                                        <a class="footer_link" href="blog.html">Blog</a>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq_accordion-item mt-0 bg-transparent border-0 p-0">
+                                <button id="faq_accordion-button-2 border-bottom-0 p-0" aria-expanded="false"><span
+                                        class="faq_accordion-title p-0">Services</span><span class="icon"
+                                        aria-hidden="true"></span></button>
+                                <div class="faq_accordion-content">
+                                    <p class="my-3">
+                                        <a href="technical_penetration.html">Penetration Testing</a>
+                                    </p>
+                                    <p class="my-3">
+                                        <a href="compliance_iso1.html">Compliance Services</a>
+                                    </p>
+                                    <p class="my-3">
+                                        <a href="technical-mob.html">Mobile Application Security</a>
+                                    </p>
+                                    <p class="my-3">
+                                        <a href="technical-web.html">Web Application Security</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-5 col-lg-5 col-md-6">
+                            <div class="email d-flex">
+                                <div class="contact_title"><img src="img/email.svg" alt="logo"></div>
+                                <div class="contact_site">
+                                    <a href="mailto:contact@securis360.com">contact@securis360.com</a>
+                                </div>
+                            </div>
+                            <div class="phone d-flex">
+                                <div class="contact_title">
+                                    <img src="img/phone.svg" alt="logo">
+                                    <img src="img/whatsapp.svg" alt="logo">
+                                </div>
+                                <div class="contact_site">
+                                    <a class="d-block" href="tel:+1 619-559 (3838)">+1 619-559 (3838)</a>
+                                    <a class="d-block" href=" tel:+91 9924099770">+91 9924099770 </a>
+                                </div>
+                            </div>
+                            <div class="footer_social_outer">
+                                <h2 class="footer_social_title">Follow us on social media</h2>
+                                <div class="footer_social">
+                                    <a class="btn" href="#" target="_blank">
+                                        <img src="img/facebook.svg" alt="logo">
+                                    </a>
+                                    <a class="btn" href="#" target="_blank">
+                                        <img src="img/linkedin.svg" alt="logo">
+                                    </a>
+                                    <a class="btn" href="#" target="_blank">
+                                        <img src="img/insta.svg" alt="logo">
+                                    </a>
+                                    <a class="btn" href="#" target="_blank">
+                                        <img src="img/twitter.svg" alt="logo">
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top">
+        <i class="bi bi-arrow-up"></i>
+    </a>
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+
+    <script>
+        //Menu Active Js
+        setTimeout(() => {
+            //Menu Active Js
+            $('.menu_item').click(function () {
+                $(this).toggleClass('active').find('.child').slideToggle();
+                $(this).siblings().removeClass('active').find('.child').slideUp();
+            });
+            //Menu Js
+            $('.menu_toggle_btn').click(function () {
+                $('.in_header_wrapper').toggleClass('open_menu');
+                $('html').toggleClass('cm-overflow');
+            });
+        }, 300);
+    </script>
+    <script>
+        const header = document.querySelector("header");
+        const toggleClass = "is-sticky";
+
+        window.addEventListener("scroll", () => {
+            const currentScroll = window.pageYOffset;
+            if (currentScroll > 150) {
+                header.classList.add(toggleClass);
+            } else {
+                header.classList.remove(toggleClass);
+            }
+        });
+
+    </script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Add hover effect for services menu
+            const servicesMenu = document.querySelector('.menu_item .mobile_arrow a[href="javascript:;"]');
+            const homeMega = document.querySelector('.home_mega');
+
+            servicesMenu.addEventListener('mouseover', function () {
+                homeMega.classList.add('show');
+            });
+
+            servicesMenu.addEventListener('mouseout', function () {
+                homeMega.classList.remove('show');
+            });
+
+            // Add active class for internal menu
+            const menuItems = document.querySelectorAll('.menu_list ul li a');
+            menuItems.forEach(item => {
+                if (item.href === window.location.href) {
+                    item.classList.add('active');
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>
